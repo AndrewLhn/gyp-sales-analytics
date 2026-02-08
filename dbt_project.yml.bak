@@ -1,0 +1,21 @@
+name: 'gyp_sales_analytics'
+version: '1.0.0'
+profile: 'gyp_sales'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+seeds:
+  gyp_sales_analytics:
+    delimiter: ","
+    quotechar: '"'
+    encoding: "utf-8"

@@ -1,0 +1,20 @@
+# dbt
+target/
+dbt_packages/
+logs/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,500 @@
+﻿Reference ID;Country;Product Code;Product Name;Subscription Start Date;Subscription Deactivation Date;Subscription Duration Months;Order Date Kyiv;Return Date Kyiv;Last Rebill Date Kyiv;Has Chargeback;Has Refund;Sales Agent Name;Source;Campaign Name;Total Amount ($);Discount Amount ($);Number Of Rebills;Original Amount ($);Returned Amount ($);Total Rebill Amount
+GYB220101-1800-81123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_7;11919;False;;14899;;
+GYB220101-1800-27157;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Nick;Chat;AQ_9;14925;False;6.0;199;;1197.0
+GYB220102-5490-53112;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Clary;Chat;AQ_9;99;False;;99;;
+GYB220102-5490-23160;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Jackie;Call;AQ_9;684;False;;684;634.0;
+GYB220103-4319-34119;;gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Jackie;Call;BF.Upgrade;4896;False;;576;;
+GYB220103-6977-97158;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_1;11974;False;;14968;;
+GYB220104-5490-77123;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Megan;Chat;AQ_9;684;False;;684;;
+GYB220104-8715-72118;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Vicky;Call;AQ_9;3456;False;;432;;
+GYB220104-4319-32105;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Megan;Chat;AQ_9;149;False;;149;;
+GYB220104-2435-91122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_3;14886;False;;14886;;
+GYB220104-2435-90148;;gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Esmee;Call;ByteFence.CTA;576;False;;576;;
+GYB220105-5490-83111;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;12665;False;;149;;
+GYB220105-4319-74113;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_1;9711;False;;1494;;
+GYB220106-2435-53108;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;9685;False;;149;;
+GYB220106-5490-48130;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;792;False;;99;;
+GYB220106-2435-63145;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;True;False;Esmee;Call;AQ_9;432;False;;432;432.0;
+GYB220106-1800-64131;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_25;99;False;;99;;
+GYB220106-8715-51112;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_1;14945;False;;14945;;
+GYB220107-6911-85132;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Biby;Chat;AQ_9;432;False;10.0;432;;1995.0
+GYB220107-6604-87123;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;6;;;;False;False;Rodger;Call;AQ.Upgrade;1743;False;;249;;
+GYB220107-1511-41116;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jayce;Call;AQ_9;68368;False;;68368;;
+GYB220108-5542-65141;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;True;False;Rodger;Call;AQ_1;30237;False;;43196;28107.0;
+GYB220108-6911-25129;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Clary;Chat;AQ_9;14941;False;;14941;;
+GYB220108-6911-44171;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ_25;495;False;;99;;
+GYB220108-4354-86171;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Rodger;Call;AQ_1;34557;False;10.0;43196;;19295.0
+GYB220108-6911-16230;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;99;False;2.0;99;;399.0
+GYB220109-4354-47123;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Nick;Call;AQ_25;199;False;19.0;199;;37905.0
+GYB220109-1511-50132;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Jayce;Call;AQ_9;199;False;;199;;
+GYB220109-4354-44148;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Megan;Chat;AQ_9;1592;False;1.0;199;;1995.0
+GYB220109-6604-74116;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;AQ_25;4788;False;;684;;
+GYB220110-6911-44113;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;AQ_9;4788;False;;684;;
+GYB220110-4354-47133;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Esmee;Call;AQ_25;576;False;;576;;
+GYB220110-4354-90170;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;AQ_1;6841;False;;6841;;
+GYB220110-6604-28126;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Vicky;Call;AQ_25;432;False;;432;;
+GYB220110-8954-29129;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Rinna;Chat;AQ_9;199;False;;199;;
+GYB220111-1511-84107;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Jayce;Call;AQ_9;432;False;;432;382.0;
+GYB220111-4354-59122;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Olivia;Chat;AQ_9;4316;False;;4316;;
+GYB220111-5542-38113;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_25;11175;False;;149;;
+GYB220111-1511-18147;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;149;False;;149;;
+GYB220111-6911-88135;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220112-8954-29108;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_25;1192;False;;149;;
+GYB220112-6604-58114;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Vicky;Call;AQ_7;36727;False;;43208;;
+GYB220113-1511-88122;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_9;576;False;;576;;
+GYB220113-1511-25165;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_9;11175;False;;149;;
+GYB220113-6911-97136;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Chat;AQ.Upgrade;4788;False;;684;;
+GYB220113-8954-28128;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Isaac;Call;AQ_7;32399;False;;43199;;
+GYB220113-5542-30106;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Nick;Call;AQ_9;792;False;7.0;99;;13965.0
+GYB220114-8954-36122;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;BF.Upgrade;4788;False;;684;;
+GYB220114-5542-89110;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;99;False;21.0;99;;41895.0
+GYB220114-8954-75165;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Nick;Call;AQ_9;99;False;3.0;99;;5985.0
+GYB220114-6911-61143;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rodger;Call;AQ_9;745;False;;149;;
+GYB220114-4354-98127;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_9;684;False;;684;;
+GYB220115-5542-13134;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220115-4354-14130;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;11215;False;;14953;;
+GYB220115-1511-83127;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Jackie;Call;AQ_9;684;False;;684;535.0;
+GYB220115-6604-51110;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_1;972;False;;14954;;
+GYB220116-4354-54118;;gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;BF.Upgrade;4032;False;;576;;
+GYB220116-8954-85139;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rinna;Chat;AQ_9;99;False;13.0;99;;25935.0
+GYB220117-4354-30158;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;149;False;;149;;
+GYB220117-4354-16192;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_25;149;False;;149;;
+GYB220117-2241-26129;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_9;149;False;;149;;
+GYB220117-5542-74117;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1043;False;;149;;
+GYB220117-1511-42127;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_7;497;False;;994;;
+GYB220118-5922-10128;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Megan;Chat;AQ_9;43246;False;;43246;;
+GYB220118-5542-13132;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Olivia;Chat;AQ_9;9685;False;;149;;
+GYB220118-2241-69161;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Olivia;Chat;AQ_9;432;False;;432;;
+GYB220119-1511-12112;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Biby;Chat;AQ_9;43212;False;;43212;;
+GYB220119-1100-86144;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220119-5542-36129;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Clary;Chat;AQ_9;99;False;5.0;99;;9975.0
+GYB220119-5542-34147;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;True;Jackie;Call;AQ.Upgrade;99;False;;99;99.0;
+GYB220120-5593-26130;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Jacob;Call;AQ_9;4608;False;;576;;
+GYB220120-5593-50153;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Clary;Chat;AQ_9;99;False;;99;;
+GYB220120-6604-72109;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Esmee;Call;AQ_1;4317;False;;4317;;
+GYB220120-2241-43133;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;11.0;99;;13717.0
+GYB220121-5040-92123;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Nick;Call;AQ_9;43185;False;;43185;;
+GYB220121-8904-88103;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Megan;Chat;AQ_9;1043;False;;149;;
+GYB220121-6407-70121;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_25;149;False;;149;;
+GYB220121-2436-93132;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rodger;Call;AQ_25;149;False;;149;;
+GYB220122-8904-42117;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Nick;Call;AQ_9;15928;False;1.0;1991;;1986.0
+GYB220122-8769-24151;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Megan;Chat;AQ_9;324;False;;432;324.0;
+GYB220122-2436-24119;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Nick;Call;AQ_9;684;False;;684;;
+GYB220122-2436-97159;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Megan;Chat;AQ_9;432;False;;432;;
+GYB220122-2436-64171;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;;;;199;False;;199;;
+GYB220122-8769-66181;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Nick;Call;AQ_9;324;False;;432;;
+GYB220122-8904-75163;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jackie;Call;AQ_9;199;False;5.0;199;;9975.0
+GYB220123-2436-43128;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Biby;Chat;AQ_9;684;False;;684;;
+GYB220123-2436-86149;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;BF.Upgrade;5814;False;;684;;
+GYB220123-2255-93147;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Biby;Chat;AQ_9;576;False;;576;;
+GYB220123-8769-26121;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Megan;Chat;AQ_9;199;False;;199;;
+GYB220124-2255-50131;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Jayce;Call;AQ_7;68369;False;;68369;47823.0;
+GYB220124-1295-38123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jayce;Call;AQ_9;149;False;;149;;
+GYB220124-2436-59151;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jacob;Call;AQ_1;5814;False;;684;;
+GYB220124-8769-18129;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Jayce;Call;AQ_1;432;False;;432;;
+GYB220124-5040-40146;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;True;Jacob;Call;AQ_1;4896;False;;576;4896.0;
+GYB220125-6407-71134;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Esmee;Call;AQ_9;432;False;;432;;
+GYB220125-2971-78104;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;1192;False;;149;;
+GYB220125-2971-41139;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Rodger;Call;AQ_9;432;False;1.0;432;;1995.0
+GYB220125-2255-85132;;gyb-support-24-month-plan;Support 24-month plan;;;24;;;;False;False;Rodger;Chat;BF.Upgrade;32367;False;;43156;;
+GYB220125-2971-44183;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_25;99;False;;99;;
+GYB220125-5040-15140;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_9;6833;False;;6833;;
+GYB220125-5040-15140;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;From Support;AQ.Upgrade;6833;False;;6833;;
+GYB220125-5040-15140;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;From Support;AQ_9;6833;False;;6833;;
+GYB220125-5040-15170;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Nick;Call;AQ_9;99;False;;99;;
+GYB220125-2255-67157;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_1;11191;False;;14921;;
+GYB220125-2971-84221;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jackie;Call;AQ_5;199;False;;199;;
+GYB220126-2971-96115;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Jackie;Call;AQ_9;3672;False;;432;;
+GYB220126-5040-74119;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_1;57591;False;;57591;;
+GYB220126-8904-64130;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Clary;Chat;AQ_9;68371;False;;68371;;
+GYB220127-6407-77118;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Ruby;Chat;AQ_9;576;False;;576;;
+GYB220127-8769-14129;;gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;BF.Upgrade;891;False;1.0;99;;2495.0
+GYB220127-8904-71128;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_1;149;False;;149;;
+GYB220127-2255-56123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_1;11941;False;;14926;;
+GYB220127-2436-32115;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_25;792;False;;99;;
+GYB220127-2971-96120;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_5;576;False;;576;;
+GYB220127-6407-35172;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jayce;Call;AQ_9;149;False;;149;;
+GYB220128-4242-81115;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;True;False;Jackie;Call;AQ_1;38854;False;;43171;35883.0;
+GYB220128-4977-22128;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_7;9918;False;17.0;9918;;40904.0
+GYB220128-5179-60121;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220128-4977-22147;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Megan;Chat;AQ_9;68362;False;;68362;;
+GYB220128-4242-75153;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;792;False;;99;;
+GYB220128-1532-84116;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_1;9948;False;3.0;9948;;6161.0
+GYB220128-8017-69132;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ.Upgrade;5814;False;;684;;
+GYB220128-9233-66122;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rinna;Chat;AQ_9;99;False;;99;;
+GYB220129-3398-77128;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_1;7442;False;;14884;;
+GYB220129-6501-56125;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Olivia;Chat;AQ_9;432;False;;432;;
+GYB220129-5179-98137;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Biby;Chat;AQ_9;684;False;;684;;
+GYB220129-8017-89112;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_25;99;False;;99;;
+GYB220129-4242-71142;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Nick;Call;AQ_9;99;False;;99;;
+GYB220129-1532-19108;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;1192;False;;149;;
+GYB220129-3398-72196;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_25;792;False;;99;;
+GYB220130-4242-21130;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_9;6435;False;;99;;
+GYB220130-4977-60113;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Megan;Chat;AQ_9;4948;False;;9896;;
+GYB220130-9233-77128;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Vicky;Call;AQ_9;684;False;;684;;
+GYB220130-5570-61108;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220130-5570-39129;;gotyourback-support-6-month-plan;Support 6-month plan;;;0;;;;False;True;;;;199;False;;21895;199.0;
+GYB220130-5179-82114;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;True;False;Jacob;Call;AQ_9;6435;False;1.0;99;6435.0;2495.0
+GYB220130-4242-61155;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jacob;Call;AQ_1;199;False;1.0;199;;1995.0
+GYB220130-1532-55139;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Nick;Call;AQ_1;684;False;;684;;
+GYB220130-8017-82119;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jacob;Call;AQ_25;495;False;1.0;99;;997.0
+GYB220131-1532-96120;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Nick;Chat;AQ_7;14928;False;;14928;;
+GYB220131-9233-32125;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;AQ_9;684;False;;684;;
+GYB220131-5570-47128;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-27160;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-23200;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-94231;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-38250;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-25301;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-28333;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;True;;;;336;False;;336;336.0;
+GYB220131-5570-59368;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-18414;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-69446;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-86457;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-24501;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-37532;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-87556;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-52583;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-77615;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-49641;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-73666;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-94688;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-31724;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;336;False;;336;;
+GYB220131-5570-42756;;gotyourback-support-6-month-plan;Support 6-month plan;;;0;;;;False;False;;;;199;False;;21895;;
+GYB220131-4242-33114;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1192;False;;149;;
+GYB220131-4977-45114;;gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;BF.Upgrade;4608;False;;576;;
+GYB220131-5570-44764;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;False;;;;299;False;;31895;;
+GYB220131-9233-33175;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Jacob;Call;AQ_25;1992;False;;249;;
+GYB220131-3398-96108;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Vicky;Call;AQ_1;43223;False;9.0;43223;;1737.0
+GYB220201-5570-22118;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;;;;336;False;2.0;336;;399.0
+GYB220201-4242-44123;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;BF.Upgrade;684;False;;684;;
+GYB220202-5179-53105;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1192;False;;149;;
+GYB220202-1532-21125;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_9;495;False;11.0;99;;10967.0
+GYB220202-1532-71174;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Megan;Chat;AQ_9;432;False;;432;;
+GYB220202-9233-91123;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_7;4947;False;;9894;;
+GYB220202-3398-32117;;aq-gyb-support-24-month-plan;Support 24-month plan;;;24;;;;False;False;Rodger;Call;AQ.Upgrade;432;False;;432;;
+GYB220203-6501-77116;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_7;6431;False;;9894;;
+GYB220203-9233-51120;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;14931;False;;14931;;
+GYB220203-8017-20116;;gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;Esmee;Call;AQ.Upgrade;33625;False;9.0;33625;;16808.0
+GYB220203-6501-56143;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_9;745;False;;149;;
+GYB220203-4977-81116;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;BF.Upgrade;4788;False;;684;;
+GYB220203-6501-17170;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rinna;Chat;AQ_9;149;False;;149;;
+GYB220204-5179-79108;;gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Rodger;From Support;BF.Upgrade;21165;False;3.0;249;;5985.0
+GYB220204-8017-76129;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Rinna;Chat;AQ_9;43228;False;;43228;40153.0;
+GYB220204-6501-40120;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;True;Rodger;Call;AQ_9;495;False;;99;495.0;
+GYB220204-5179-13139;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jacob;Call;AQ_9;99;False;1.0;99;;1995.0
+GYB220204-3398-78138;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;AQ_1;68397;False;;68397;;
+GYB220204-3398-79166;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Esmee;Call;AQ_9;199;False;9.0;199;;17955.0
+GYB220205-1532-89107;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Megan;From Support;AQ.Upgrade;513;False;;684;;
+GYB220205-6501-14156;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Vicky;Call;AQ_9;199;False;11.0;199;;21945.0
+GYB220205-6501-27168;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;432;False;;432;;
+GYB220205-1532-40144;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_9;149;False;;149;;
+GYB220205-9233-32114;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220205-4977-12146;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220206-8017-49132;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Esmee;Call;AQ_7;68347;False;;68347;48066.0;
+GYB220206-9233-87112;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;BF.Upgrade;58095;False;;68347;;
+GYB220206-9233-36137;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Nick;Call;AQ_9;684;False;;684;535.0;
+GYB220207-4977-14110;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jacob;Call;AQ_9;495;False;;99;;
+GYB220207-8017-38112;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220207-3398-46122;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;684;False;;684;;
+GYB220207-6501-53148;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;;;;99;False;20.0;99;;499.0
+GYB220208-5179-48103;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Megan;Call;AQ_9;1791;False;;199;;
+GYB220208-1532-60120;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;6435;False;;99;;
+GYB220208-1532-96132;;aq-gyb-support-6-month-plan-hi;Support 6-month Plan;;;1;;;;False;False;Rinna;Chat;AQ_9;336;False;;336;;
+GYB220208-9233-27117;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Esmee;Call;AQ_9;1393;False;17.0;199;;33915.0
+GYB220208-4977-27132;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_25;6435;False;;99;;
+GYB220208-5179-29145;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rinna;Chat;AQ_9;99;False;;99;;
+GYB220209-8017-14101;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;1992;False;14.0;249;;2793.0
+GYB220209-9233-48119;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;From Support;BF.Upgrade;4788;False;;684;;
+GYB220209-5179-18117;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Rodger;From Support;BF.Upgrade;684;False;;684;684.0;
+GYB220209-8017-43125;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;True;False;Rodger;Call;AQ_9;46043;False;;57554;42867.0;
+GYB220209-6501-27122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Megan;Chat;AQ_9;11174;False;;14899;;
+GYB220210-2756-95124;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Nick;Call;AQ_9;684;False;;684;;
+GYB220210-2092-53113;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;14911;False;;14911;;
+GYB220210-1833-24119;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_1;745;False;;149;;
+GYB220210-4943-65122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Olivia;Chat;AQ_9;1192;False;;149;;
+GYB220210-1469-74113;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Olivia;Chat;AQ_9;4608;False;;576;;
+GYB220210-3843-19147;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Olivia;Chat;AQ_9;149;False;;149;;
+GYB220210-5240-20112;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_9;149;False;;149;;
+GYB220210-1469-55133;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_9;6435;False;16.0;99;;3192.0
+GYB220210-1230-62119;;aq-gyb-support-6-month-plan-hi;Support 6-month Plan;;;6;;;;False;False;Jayce;Call;AQ_1;26895;False;;33619;;
+GYB220211-5240-78127;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;True;Megan;Chat;AQ_9;576;False;;576;426.0;
+GYB220211-1469-20108;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Megan;Chat;AQ_9;9907;False;5.0;9907;;9553.0
+GYB220211-1469-33138;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Vicky;Call;AQ_7;68391;False;;68391;;
+GYB220211-3843-60119;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jacob;Call;AQ_5;7425;False;;99;;
+GYB220211-1469-65159;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;True;False;Nick;Call;AQ_25;684;False;;684;684.0;
+GYB220211-1469-74188;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Jacob;Call;AQ_9;14925;False;;199;;
+GYB220211-3843-87152;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Rodger;Call;AQ_9;1592;False;;199;;
+GYB220211-1596-92116;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;149;False;;149;;
+GYB220211-6036-80122;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;AQ_1;5814;False;;684;;
+GYB220211-1596-53140;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Esmee;Call;AQ_1;576;False;;576;;
+GYB220212-4018-47111;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Rodger;Call;AQ_9;3024;False;;432;;
+GYB220212-5240-72122;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Esmee;Call;AQ_9;324;False;;432;;
+GYB220212-1230-50107;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Esmee;Call;AQ_9;495;False;;99;;
+GYB220212-7843-92119;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;149;False;;149;;
+GYB220212-4018-20134;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Clary;Chat;AQ_9;99;False;;99;;
+GYB220212-7843-23149;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Esmee;Call;AQ_9;249;False;3.0;249;;5985.0
+GYB220212-1469-14155;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jacob;Call;AQ_1;7425;False;;99;;
+GYB220213-5240-26132;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;True;Esmee;Call;AQ_9;6435;False;;99;6435.0;
+GYB220213-1469-14128;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Jules;Chat;AQ_9;432;False;;432;;
+GYB220213-6036-64129;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_9;745;False;;149;;
+GYB220213-1230-82119;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ_1;9928;False;;9928;;
+GYB220213-1596-48133;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_9;576;False;;576;;
+GYB220213-3843-45125;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Olivia;Chat;AQ_9;684;False;;684;;
+GYB220214-6036-72107;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;9685;False;;149;;
+GYB220214-6036-21125;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_9;684;False;;684;;
+GYB220214-1469-52121;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jules;Chat;AQ_9;149;False;;149;;
+GYB220214-1469-56156;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ_1;4964;False;;9928;;
+GYB220215-1596-15110;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;True;False;Jayce;Call;AQ_9;684;False;;684;684.0;
+GYB220215-1469-62125;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;True;Vicky;Call;AQ_9;576;False;;576;300.0;
+GYB220215-5240-93129;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ_1;4961;False;2.0;9922;;2051.0
+GYB220215-5240-75172;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rinna;Chat;AQ_9;149;False;;149;;
+GYB220216-9780-48120;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_7;68338;False;;68338;;
+GYB220216-4018-97119;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Biby;Chat;AQ_9;68377;False;;68377;;
+GYB220216-3843-67122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Esmee;Call;AQ_25;9685;False;;149;;
+GYB220217-8578-93123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Megan;Chat;PDFSuite.CTA;149;False;;149;;
+GYB220217-1791-56133;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Vicky;Call;AQ_1;57605;False;;57605;;
+GYB220217-9979-62120;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_25;495;False;6.0;99;;7482.0
+GYB220217-2723-85130;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Esmee;Call;AQ.Upgrade;6156;False;;684;;
+GYB220217-1324-81112;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Olivia;Chat;AQ_9;432;False;;432;300.0;
+GYB220217-1324-28136;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Rodger;Call;AQ_9;1393;False;1.0;199;;1995.0
+GYB220217-4827-85118;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jacob;Call;AQ_9;9685;False;;149;;
+GYB220217-4103-59140;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Nick;Call;AQ_9;432;False;;432;283.0;
+GYB220217-7423-36114;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Nick;Call;AQ_9;1992;False;3.0;249;;5985.0
+GYB220218-1719-97110;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Nick;Call;AQ_9;149;False;;149;;
+GYB220218-8715-39126;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_1;576;False;;576;;
+GYB220218-7311-61120;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Rodger;From Support;AQ.Upgrade;3024;False;;432;;
+GYB220218-1719-79130;;gyb-support-36-month-plan;Support 36-month plan;;;1;;;;False;True;;;;57556;False;3.0;57556;37283.0;5777.0
+GYB220218-6894-75107;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;2.0;99;;2494.0
+GYB220218-6894-79140;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Biby;Chat;AQ_9;149;False;;149;;
+GYB220219-7341-65119;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;5472;False;;684;;
+GYB220219-3437-51117;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_9;68391;False;;68391;;
+GYB220219-6643-67120;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Jules;Chat;AQ_9;432;False;;432;;
+GYB220219-6894-98116;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jackie;Call;AQ_9;1592;False;2.0;199;;399.0
+GYB220219-6643-41143;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;8415;False;;99;;
+GYB220219-6344-17113;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_7;8424;False;;9911;;
+GYB220219-6643-35171;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Ruby;Chat;AQ_9;149;False;;149;;
+GYB220220-6894-63128;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220220-7341-39112;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_7;7467;False;;14934;;
+GYB220220-6894-55191;;gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;Rodger;Call;BF.Upgrade;576;False;;576;;
+GYB220220-6344-60136;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jules;Chat;AQ_9;1192;False;;149;;
+GYB220221-6643-26110;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;;99;;
+GYB220221-9523-16124;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Rodger;Call;AQ_7;30256;False;1.0;43223;;1928.0
+GYB220221-3925-60124;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;495;False;;99;;
+GYB220221-9523-20157;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;;;;5814;False;;684;500.0;
+GYB220221-3925-93142;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;745;False;;149;;
+GYB220221-7341-37129;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220221-3437-92119;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_1;745;False;;149;;
+GYB220222-3925-65102;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;;;;513;False;;684;513.0;
+GYB220222-6643-85114;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;4322;False;;4322;;
+GYB220222-3925-33137;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;199;False;;199;;
+GYB220222-3437-47118;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;;;;2856;False;1.0;336;;1995.0
+GYB220222-6643-83126;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;True;False;;;;9922;False;;9922;9261.0;
+GYB220222-1825-75144;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1119;False;;1492;;
+GYB220222-7341-41104;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_1;9922;False;;9922;;
+GYB220222-6643-97159;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Nick;From Support;ByteFence.CTA;6435;False;;99;;
+GYB220222-6643-97159;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;;;;6435;False;;99;;
+GYB220222-3925-79198;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;43246;False;;43246;;
+GYB220222-3437-12141;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;495;False;;99;;
+GYB220223-6894-83113;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;432;False;;432;;
+GYB220223-7341-49130;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;2.0;99;;2494.0
+GYB220224-6344-94127;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;324;False;;432;;
+GYB220224-9523-71127;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;9685;False;;149;;
+GYB220224-3437-55128;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Ruby;Ticket;AQ_21;24942;False;2.0;24942;;3922.0
+GYB220224-7955-11142;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;7468;False;;14936;;
+GYB220225-6849-52135;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ_9;495;False;19.0;99;;18943.0
+GYB220226-3969-68106;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_9;745;False;;149;;
+GYB220227-6206-73123;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;684;False;;684;;
+GYB220227-3240-47111;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1498;False;;1498;;
+GYB220227-6206-97164;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220227-3969-54123;;gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;5472;False;;684;;
+GYB220228-6206-73107;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;3024;False;;432;;
+GYB220228-5377-43114;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;19956;False;;19956;;
+GYB220228-6849-15105;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;30258;False;;43226;;
+GYB220301-3969-41127;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;684;False;;684;;
+GYB220301-6206-89120;;one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jules;Chat;AQ_9;149;False;;149;;
+GYB220301-3240-50125;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;AQ.Upgrade;9926;False;17.0;9926;;33392.0
+GYB220302-5377-65116;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;199;False;3.0;199;;5985.0
+GYB220302-3240-59133;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;From Support;BF.Upgrade;4788;False;;684;;
+GYB220303-7835-78112;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;58085;False;;68335;;
+GYB220303-5377-72116;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220304-6849-18122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;True;Jackie;Call;AQ_25;11175;False;;149;11175.0;
+GYB220304-7955-24111;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;9685;False;;149;;
+GYB220304-5377-70126;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jackie;Call;AQ_9;14925;False;12.0;199;;2394.0
+GYB220304-3969-90145;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;3456;False;8.0;432;;1596.0
+GYB220305-3969-90131;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220306-6206-92115;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220306-7835-66111;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;199;False;2.0;199;;399.0
+GYB220306-5675-78115;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_9;792;False;;99;;
+GYB220307-6206-11131;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;684;False;;684;;
+GYB220307-3969-17116;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;;;;684;False;;684;535.0;
+GYB220307-3969-71174;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;8.0;432;;1596.0
+GYB220308-5675-30119;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;2.0;432;;399.0
+GYB220308-5675-46158;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;9685;False;;149;;
+GYB220308-7955-34117;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220308-5377-94125;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;32366;False;;43155;;
+GYB220308-5837-29131;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;;;;336;False;1.0;336;;1995.0
+GYB220308-5675-51176;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;792;False;19.0;99;;37905.0
+GYB220309-7835-43137;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;9685;False;;149;;
+GYB220309-5377-23103;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;Call;AQ_9;513;False;;684;;
+GYB220309-7835-25156;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Jules;Chat;AQ_9;99;False;3.0;99;;7485.0
+GYB220309-7955-90110;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;2.0;99;;1994.0
+GYB220309-6206-26109;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;432;False;3.0;432;;5985.0
+GYB220309-7955-91130;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;432;False;;432;;
+GYB220309-7835-70196;;aq-gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;Rodger;Call;AQ.Upgrade;576;False;;576;;
+GYB220309-5377-12149;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;3024;False;;432;;
+GYB220310-3969-28120;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Nick;From Support;ByteFence.CTA;99;False;2.0;99;;399.0
+GYB220310-7835-69114;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;6435;False;;99;;
+GYB220310-3240-23126;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220310-3240-37168;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_1;8433;False;;9921;;
+GYB220311-7311-68115;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;;99;;
+GYB220311-6876-33119;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;324;False;;432;;
+GYB220311-6876-90159;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220311-6876-27174;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;3024;False;;432;;
+GYB220312-8911-80109;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;14929;False;;14929;;
+GYB220312-8911-53140;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;6435;False;;99;;
+GYB220312-7871-21132;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;6443;False;;9912;;
+GYB220312-7910-19108;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220312-7311-15116;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;8.0;432;;1596.0
+GYB220313-3044-21132;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Vicky;Call;AQ_9;432;False;1.0;432;;1995.0
+GYB220313-7311-69134;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220313-8911-62133;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;498;False;;996;;
+GYB220313-7311-52163;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;6435;False;;99;;
+GYB220313-7871-16146;;gotyourback-support-6-month-plan;Support 6-month plan;;;0;;;;False;False;;;;199;False;;21895;;
+GYB220314-6422-50130;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;199;False;2.0;199;;399.0
+GYB220314-7910-44104;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;Rodger;Call;AQ_9;2352;False;8.0;336;;1596.0
+GYB220314-7311-89114;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rodger;Call;AQ_9;149;False;;149;;
+GYB220315-3044-51110;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220315-7477-94120;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220315-3044-50134;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;6;;;;False;False;Ruby;Ticket;AQ_21;249;False;;249;;
+GYB220315-7871-53127;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jackie;Call;AQ_9;5814;False;;684;;
+GYB220315-3044-57179;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;Jules;Chat;AQ_9;432;False;;432;432.0;
+GYB220315-2559-11126;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;99;False;;99;;
+GYB220316-3044-53129;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;Vicky;Call;AQ_9;684;False;;684;684.0;
+GYB220316-2559-24124;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rinna;Chat;AQ_9;576;False;;576;;
+GYB220316-7871-56152;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_25;9685;False;;149;;
+GYB220316-7477-67124;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;684;False;;684;;
+GYB220317-7910-35122;;aq-gyb-support-6-month-plan;Support 6-month plan;;;1;;;;False;False;Rodger;Call;AQ_1;13443;False;7.0;19204;;13462.0
+GYB220317-8911-29119;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;1.0;432;;1995.0
+GYB220317-2559-72126;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220318-2559-54136;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;3456;False;;432;;
+GYB220318-3044-81133;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220318-7477-36126;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220319-3044-54117;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1043;False;;149;;
+GYB220319-2559-14135;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220319-2559-92174;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;;432;;
+GYB220319-3588-98121;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;False;;;;299;False;;31895;;
+GYB220319-3588-83135;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;False;;;;299;False;;31895;;
+GYB220319-3588-53150;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;False;;;;399;False;;41895;;
+GYB220319-3588-96171;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;False;;;;399;False;;41895;;
+GYB220319-3588-98185;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;False;;;;399;False;;41895;;
+GYB220319-3588-69199;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;False;;;;399;False;;41895;;
+GYB220319-7477-26118;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220319-3588-93223;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;False;;;;399;False;;41895;;
+GYB220319-3588-77240;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;True;;;;399;False;;41895;399.0;
+GYB220319-3588-94264;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;True;;;;399;False;;41895;399.0;
+GYB220319-8911-82128;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;6;;;;False;False;Ruby;Ticket;AQ_21;18675;False;;249;;
+GYB220319-3588-82300;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;True;;;;299;False;;31895;299.0;
+GYB220320-8911-47122;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220320-3044-85111;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;68376;False;;68376;;
+GYB220320-3588-47137;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;True;;;;299;False;;31895;299.0;
+GYB220320-3588-60157;;gotyourback-support-24-month-plan;Support 24-month plan;;;0;;;;False;True;;;;399;False;;41895;399.0;
+GYB220320-3588-72169;;gotyourback-support-12-month-plan;Support 12-month plan;;;0;;;;False;True;;;;299;False;;31895;299.0;
+GYB220320-2559-75114;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Ruby;Chat;AQ_9;57551;False;;57551;;
+GYB220321-2559-12110;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Kinder;Chat;AQ_9;576;False;;576;;
+GYB220321-2559-12110;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;576;False;;576;;
+GYB220321-6422-62105;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;495;False;13.0;99;;12961.0
+GYB220321-8911-85117;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;34552;False;;4319;;
+GYB220321-7477-75133;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;1592;False;3.0;199;;5985.0
+GYB220321-6876-69144;;aq-gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;Rodger;Call;AQ.Upgrade;46069;False;;57586;;
+GYB220321-8911-82143;;aq-gyb-support-24-month-plan;Support 24-month plan;;;24;;;;False;False;Rodger;Call;AQ.Upgrade;3024;False;;432;;
+GYB220321-6422-79117;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Jules;Chat;AQ_9;15939;False;;19924;;
+GYB220321-7871-31130;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_9;495;False;;99;;
+GYB220321-3044-31104;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;True;;;;3456;False;;432;3456.0;
+GYB220322-6876-72112;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;30223;False;;43176;;
+GYB220322-3044-14111;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;199;False;;199;;
+GYB220322-8911-44118;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_9;745;False;;149;;
+GYB220322-7871-42114;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;True;False;Rodger;Call;AQ_9;99;False;;99;99.0;
+GYB220323-6422-45118;;aq-gyb-support-multiple-monthly;Support Multiple Device Monthly Subscription;;;1;;;;False;False;Rodger;Call;AQ_25;99;False;3.0;99;;7485.0
+GYB220323-7910-93109;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;Rodger;Call;AQ_25;252;False;;336;;
+GYB220323-6422-37181;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1192;False;;149;;
+GYB220323-2559-96129;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1192;False;;149;;
+GYB220323-6876-95130;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;1192;False;;149;;
+GYB220323-3044-52133;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;7475;False;;1495;;
+GYB220323-7910-92132;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;6;;;;False;False;Ruby;Ticket;AQ_21;249;False;;249;;
+GYB220323-6876-38166;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;True;;;;684;False;;684;684.0;
+GYB220324-7871-19116;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;495;False;;99;;
+GYB220324-4913-69125;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;576;False;;576;;
+GYB220324-2050-61128;;gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;99;False;4.0;99;;798.0
+GYB220324-5332-88130;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;432;False;;432;;
+GYB220324-5332-88130;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;;432;;
+GYB220324-5332-11174;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;5759;False;;5759;;
+GYB220325-4913-56125;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;576;False;;576;;
+GYB220325-4913-70155;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;11911;False;;14889;;
+GYB220325-5541-34116;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;36692;False;;43168;;
+GYB220325-5566-42122;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;19926;False;9.0;19926;;16627.0
+GYB220326-5566-84101;;one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;7464;False;;14928;;
+GYB220326-7711-59144;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;43206;False;;43206;;
+GYB220326-5541-94114;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;7447;False;;993;;
+GYB220326-5541-91129;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Rodger;Call;AQ_9;3024;False;;432;;
+GYB220326-7711-42168;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_25;576;False;;576;;
+GYB220327-4732-29120;;gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;Alex;Chat;;576;False;;576;;
+GYB220327-4732-94144;;gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;;;;576;False;;576;;
+GYB220327-4732-57165;;gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;;;;576;False;;576;;
+GYB220327-4913-74111;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;19932;False;;24915;;
+GYB220327-2543-96116;;aq-gyb-support-6-month-plan-hi;Support 6-month Plan;;;6;;;;False;False;Ruby;Ticket;AQ_21;252;False;;336;;
+GYB220327-5541-44119;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;3456;False;4.0;432;;798.0
+GYB220327-6791-67101;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_9;432;False;;576;;
+GYB220327-2543-77152;;gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;Jackie;Call;BF.Upgrade;324;False;;432;;
+GYB220328-4913-76127;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;4979;False;;9958;;
+GYB220328-5566-93116;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;34592;False;;4324;;
+GYB220328-2050-88108;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rinna;Chat;AQ_9;684;False;;684;;
+GYB220328-5541-76131;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;745;False;;149;;
+GYB220328-7711-85129;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Vicky;Call;AQ_25;495;False;;99;;
+GYB220328-5541-29163;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;11959;False;;14949;;
+GYB220328-7711-47169;;gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;Jackie;Call;BF.Upgrade;99;False;3.0;99;;5985.0
+GYB220328-2543-42151;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Rodger;From Support;AQ.Upgrade;4788;False;;684;;
+GYB220328-2543-92182;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;Rodger;Call;AQ.Upgrade;2352;False;;336;;
+GYB220329-2543-35114;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;6;;;;False;False;Jules;Chat;AQ_9;19923;False;;24903;;
+GYB220329-2050-12112;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Jackie;Call;AQ_1;48908;False;;57539;;
+GYB220329-6791-66123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_21;1043;False;;149;;
+GYB220330-4913-72103;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;19915;False;1.0;19915;;1853.0
+GYB220330-5566-60139;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220330-6791-70119;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;14894;False;;14894;;
+GYB220330-4913-68138;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;199;False;;199;;
+GYB220330-2050-28110;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;745;False;;149;;
+GYB220330-5332-86110;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;1;;;;False;False;Keira;Chat;AQ_21;199;False;10.0;199;;1995.0
+GYB220330-7323-80104;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Vicky;Call;AQ_9;1043;False;;149;;
+GYB220331-3150-50104;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;14901;False;;14901;;
+GYB220331-2793-63106;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;54686;False;;68357;;
+GYB220331-9703-29106;;aq-gyb-support-6-month-plan;Support 6-month plan;;;1;;;;False;False;Rodger;Call;AQ_9;144;False;1.0;192;;1995.0
+GYB220331-9703-13148;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;True;False;;;;5472;False;;684;5472.0;
+GYB220331-8709-50130;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;;;;684;False;;684;;
+GYB220331-9703-51187;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;True;False;;;;432;False;;432;432.0;
+GYB220331-3150-41125;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;9686;False;;14902;;
+GYB220401-8709-29128;;aq-gyb-support-12-month-plan;Support 12-month plan;;;1;;;;False;False;Rodger;Call;AQ_7;2354;False;3.0;33628;;5378.0
+GYB220401-3245-91126;;aq-gyb-support-12-month-plan;Support 12-month plan;;;12;;;;False;False;;;;2354;False;;33628;;
+GYB220401-2793-55124;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;;;;149;False;;149;;
+GYB220402-3245-21126;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Jackie;Call;AQ_9;745;False;;149;;
+GYB220402-8709-30113;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;3456;False;;432;;
+GYB220402-8709-67143;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;David;Call;AQ_1;7447;False;;14894;;
+GYB220403-3150-68119;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;1592;False;;199;;
+GYB220403-7323-11118;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;4032;False;;576;;
+GYB220403-7323-58148;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;1992;False;13.0;249;;25935.0
+GYB220403-2793-67119;;aq-gyb-support-36-month-plan-hi;Support 36-month Plan;;;36;;;;False;False;Jules;Chat;AQ_9;68397;False;;68397;;
+GYB220404-3153-26121;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;Jules;Chat;AQ_9;1992;False;1.0;249;;1995.0
+GYB220404-2833-39114;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;19903;False;;19903;;
+GYB220404-9703-12140;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;12;;;;False;False;;;;3456;False;;432;;
+GYB220404-2793-83123;;aq-one-time-pc-support;Support One Time PC Support;;;0;;;;False;False;Rinna;Chat;AQ_9;149;False;;149;;
+GYB220405-2833-49117;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;Rinna;Chat;AQ_9;432;False;7.0;432;;13965.0
+GYB220405-7323-63105;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;False;;;;432;False;3.0;432;;5985.0
+GYB220405-3245-15115;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;576;False;;576;;
+GYB220406-3245-92115;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Megan;Chat;PDFSuite.CTA;576;False;;576;;
+GYB220406-2793-14113;;aq-gyb-support-3-month-plan-lo;Support 3-month Plan;;;3;;;;False;False;Keira;Chat;AQ_21;199;False;;199;;
+GYB220406-2793-69125;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;495;False;;99;;
+GYB220406-3245-93139;;aq-gyb-support-6-month-plan-lo;Support 6-month Plan;;;1;;;;False;False;David;Call;AQ_9;1992;False;3.0;249;;5985.0
+GYB220407-3245-93123;;aq-gyb-support-6-month-plan;Support 6-month plan;;;1;;;;False;False;Rodger;Call;AQ_1;19196;False;3.0;19196;;5524.0
+GYB220407-3150-18113;;aq-gyb-support-36-month-plan;Support 36-month plan;;;36;;;;False;False;Rodger;Call;AQ_9;576;False;;576;;
+GYB220407-2833-71118;;aq-gyb-support-24-month-plan-hi;Support 24-month Plan;;;24;;;;False;False;Rodger;Call;AQ_9;576;False;;576;;
+GYB220407-2833-33148;;aq-gyb-support-12-month-plan-hi;Support 12-month Plan;;;1;;;;False;True;;;;432;False;1.0;432;333.0;1995.0
+GYB220407-9368-20128;;aq-gyb-support-single-monthly;Support Single Device Monthly Subscription;;;1;;;;False;False;;;;99;False;1.0;99;;1995.0

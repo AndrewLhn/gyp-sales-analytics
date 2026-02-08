@@ -1,0 +1,500 @@
+id,reference_id,country,product_code,product_name,subscription_start_date,subscription_deactivation_date,subscription_duration_months,order_date_kyiv,return_date_kyiv,last_rebill_date_kyiv,has_chargeback,has_refund,sales_agent_name,source,campaign_name,total_amount,discount_amount,number_of_rebills,original_amount,returned_amount,total_rebill_amount,created_at
+1,GYB220101-1800-81123,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-01,,,False,False,Esmee,Call,AQ_7,119.19,29.8,,148.99,,,2026-02-07 00:00:00
+2,GYB220101-1800-27157,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-01,2022-10-08,1.0,,,2022-09-01,False,False,Nick,Chat,AQ_9,149.25,49.75,6,199.0,,119.7,2026-02-07 00:00:00
+3,GYB220102-5490-53112,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-02,2022-02-02,1.0,,,,False,False,Clary,Chat,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+4,GYB220102-5490-23160,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-02,,36.0,,2022-01-04,,False,True,Jackie,Call,AQ_9,684.0,0.0,,684.0,634.0,,2026-02-07 00:00:00
+5,GYB220103-4319-34119,US,gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-03,,24.0,,,,False,False,Jackie,Call,BF.Upgrade,489.6,86.4,,576.0,,,2026-02-07 00:00:00
+6,GYB220103-6977-97158,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-04,,,False,False,Jackie,Call,AQ_1,119.74,29.94,,149.68,,,2026-02-07 00:00:00
+7,GYB220104-5490-77123,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-04,2025-01-04,36.0,,,,False,False,Megan,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+8,GYB220104-8715-72118,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-04,2023-01-11,1.0,,,,False,False,Vicky,Call,AQ_9,345.6,86.4,,432.0,,,2026-02-07 00:00:00
+9,GYB220104-4319-32105,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Megan,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+10,GYB220104-2435-91122,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Vicky,Call,AQ_3,148.86,0.0,,148.86,,,2026-02-07 00:00:00
+11,GYB220104-2435-90148,US,gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-04,2024-06-02,24.0,2022-01-05,,,False,False,Esmee,Call,ByteFence.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+12,GYB220105-5490-83111,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-05,,,False,False,Jackie,Call,AQ_9,126.65,22.35,,149.0,,,2026-02-07 00:00:00
+13,GYB220105-4319-74113,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-06,,,False,False,Esmee,Call,AQ_1,97.11,52.29,,149.4,,,2026-02-07 00:00:00
+14,GYB220106-2435-53108,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-06,,,False,False,,,,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+15,GYB220106-5490-48130,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-06,2022-02-06,1.0,,,,False,False,Esmee,Call,AQ_9,79.2,19.8,,99.0,,,2026-02-07 00:00:00
+16,GYB220106-2435-63145,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-06,2022-01-13,12.0,,,,True,False,Esmee,Call,AQ_9,432.0,0.0,,432.0,432.0,,2026-02-07 00:00:00
+17,GYB220106-1800-64131,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-06,2022-02-06,1.0,,,,False,False,Esmee,Call,AQ_25,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+18,GYB220106-8715-51112,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jacob,Call,AQ_1,149.45,0.0,,149.45,,,2026-02-07 00:00:00
+19,GYB220107-6911-85132,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-07,,1.0,2022-01-07,,2023-10-07,False,False,Biby,Chat,AQ_9,432.0,0.0,10,432.0,,199.5,2026-02-07 00:00:00
+20,GYB220107-6604-87123,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-01-07,2022-06-07,6.0,,,,False,False,Rodger,Call,AQ.Upgrade,174.3,74.7,,249.0,,,2026-02-07 00:00:00
+21,GYB220107-1511-41116,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-07,,36.0,,,,False,False,Jayce,Call,AQ_9,683.68,0.0,,683.68,,,2026-02-07 00:00:00
+22,GYB220108-5542-65141,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-08,2022-01-29,12.0,,,,True,False,Rodger,Call,AQ_1,302.37,129.59,,431.96,281.07,,2026-02-07 00:00:00
+23,GYB220108-6911-25129,GB,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Clary,Chat,AQ_9,149.41,0.0,,149.41,,,2026-02-07 00:00:00
+24,GYB220108-6911-44171,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-08,2022-02-08,1.0,,,,False,False,Jackie,Call,AQ_25,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+25,GYB220108-4354-86171,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-08,,1.0,2022-01-09,,2023-10-08,False,False,Rodger,Call,AQ_1,345.57,86.39,10,431.96,,192.95,2026-02-07 00:00:00
+26,GYB220108-6911-16230,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-08,2022-04-08,1.0,2022-01-09,,2022-03-08,False,False,Rodger,Call,AQ_9,99.0,0.0,2,99.0,,39.9,2026-02-07 00:00:00
+27,GYB220109-4354-47123,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-09,,1.0,2022-01-09,,2023-10-09,False,False,Nick,Call,AQ_25,199.0,0.0,19,199.0,,379.05,2026-02-07 00:00:00
+28,GYB220109-1511-50132,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-09,2022-04-09,3.0,2022-01-09,,,False,False,Jayce,Call,AQ_9,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+29,GYB220109-4354-44148,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-09,2022-05-16,1.0,,,2022-04-09,False,False,Megan,Chat,AQ_9,159.2,39.8,1,199.0,,19.95,2026-02-07 00:00:00
+30,GYB220109-6604-74116,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-09,,36.0,2022-01-10,,,False,False,Rodger,Call,AQ_25,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+31,GYB220110-6911-44113,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-10,,36.0,2022-01-10,,,False,False,Rodger,Call,AQ_9,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+32,GYB220110-4354-47133,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-10,2024-01-10,24.0,,,,False,False,Esmee,Call,AQ_25,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+33,GYB220110-4354-90170,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-10,,36.0,,,,False,False,Esmee,Call,AQ_1,684.1,0.0,,684.1,,,2026-02-07 00:00:00
+34,GYB220110-6604-28126,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-10,2023-01-10,12.0,2022-01-11,,,False,False,Vicky,Call,AQ_25,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+35,GYB220110-8954-29129,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-10,2022-04-10,3.0,2022-01-11,,,False,False,Rinna,Chat,AQ_9,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+36,GYB220111-1511-84107,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-11,2023-01-09,12.0,2022-01-11,2022-02-12,,False,True,Jayce,Call,AQ_9,432.0,0.0,,432.0,382.0,,2026-02-07 00:00:00
+37,GYB220111-4354-59122,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-11,2023-01-11,12.0,,,,False,False,Olivia,Chat,AQ_9,431.6,0.0,,431.6,,,2026-02-07 00:00:00
+38,GYB220111-5542-38113,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jacob,Call,AQ_25,111.75,37.25,,149.0,,,2026-02-07 00:00:00
+39,GYB220111-1511-18147,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+40,GYB220111-6911-88135,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-11,2022-02-11,1.0,2022-01-12,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+41,GYB220112-8954-29108,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-12,,,False,False,Vicky,Call,AQ_25,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+42,GYB220112-6604-58114,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-12,2023-01-12,12.0,2022-01-12,,,False,False,Vicky,Call,AQ_7,367.27,64.81,,432.08,,,2026-02-07 00:00:00
+43,GYB220113-1511-88122,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-13,,24.0,,,,False,False,Rodger,Call,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+44,GYB220113-1511-25165,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jacob,Call,AQ_9,111.75,37.25,,149.0,,,2026-02-07 00:00:00
+45,GYB220113-6911-97136,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-13,2025-09-13,36.0,,,,False,False,Rodger,Chat,AQ.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+46,GYB220113-8954-28128,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-13,2023-01-20,1.0,2022-01-14,,,False,False,Isaac,Call,AQ_7,323.99,108.0,,431.99,,,2026-02-07 00:00:00
+47,GYB220113-5542-30106,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-13,2022-09-13,1.0,2022-01-14,,2022-08-13,False,False,Nick,Call,AQ_9,79.2,19.8,7,99.0,,139.65,2026-02-07 00:00:00
+48,GYB220114-8954-36122,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-14,2025-01-14,36.0,,,,False,False,Rodger,Call,BF.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+49,GYB220114-5542-89110,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-14,,1.0,,,2023-10-14,False,False,Rodger,Call,AQ_9,99.0,0.0,21,99.0,,418.95,2026-02-07 00:00:00
+50,GYB220114-8954-75165,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-14,2022-05-21,1.0,,,2022-04-14,False,False,Nick,Call,AQ_9,99.0,0.0,3,99.0,,59.85,2026-02-07 00:00:00
+51,GYB220114-6911-61143,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Rodger,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+52,GYB220114-4354-98127,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-14,,36.0,2022-01-15,,,False,False,Jackie,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+53,GYB220115-5542-13134,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-15,,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+54,GYB220115-4354-14130,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_9,112.15,37.38,,149.53,,,2026-02-07 00:00:00
+55,GYB220115-1511-83127,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-15,2022-06-15,36.0,,2022-06-15,,False,True,Jackie,Call,AQ_9,684.0,0.0,,684.0,535.0,,2026-02-07 00:00:00
+56,GYB220115-6604-51110,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_1,97.2,52.34,,149.54,,,2026-02-07 00:00:00
+57,GYB220116-4354-54118,US,gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-16,2024-01-16,24.0,2022-01-16,,,False,False,Rodger,Call,BF.Upgrade,403.2,172.8,,576.0,,,2026-02-07 00:00:00
+58,GYB220116-8954-85139,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-16,2023-03-16,1.0,2022-01-17,,2023-02-16,False,False,Rinna,Chat,AQ_9,99.0,0.0,13,99.0,,259.35,2026-02-07 00:00:00
+59,GYB220117-4354-30158,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+60,GYB220117-4354-16192,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_25,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+61,GYB220117-2241-26129,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-18,,,False,False,Vicky,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+62,GYB220117-5542-74117,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-18,,,False,False,,,,104.3,44.7,,149.0,,,2026-02-07 00:00:00
+63,GYB220117-1511-42127,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-17,2022-02-17,1.0,2022-01-18,,,False,False,Esmee,Call,AQ_7,49.7,49.7,,99.4,,,2026-02-07 00:00:00
+64,GYB220118-5922-10128,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-18,2023-01-18,12.0,2022-01-18,,,False,False,Megan,Chat,AQ_9,432.46,0.0,,432.46,,,2026-02-07 00:00:00
+65,GYB220118-5542-13132,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Olivia,Chat,AQ_9,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+66,GYB220118-2241-69161,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-18,2023-01-18,12.0,,,,False,False,Olivia,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+67,GYB220119-1511-12112,NZ,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-19,2023-01-19,12.0,2022-01-19,,,False,False,Biby,Chat,AQ_9,432.12,0.0,,432.12,,,2026-02-07 00:00:00
+68,GYB220119-1100-86144,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-19,2023-01-19,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+69,GYB220119-5542-36129,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-19,2022-07-21,1.0,,,2022-06-21,False,False,Clary,Chat,AQ_9,99.0,0.0,5,99.0,,99.75,2026-02-07 00:00:00
+70,GYB220119-5542-34147,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-19,2022-01-19,1.0,,2022-01-19,,False,True,Jackie,Call,AQ.Upgrade,99.0,0.0,,99.0,99.0,,2026-02-07 00:00:00
+71,GYB220120-5593-26130,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-20,2024-01-20,24.0,2022-01-20,,,False,False,Jacob,Call,AQ_9,460.8,115.2,,576.0,,,2026-02-07 00:00:00
+72,GYB220120-5593-50153,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-20,2022-01-20,1.0,,,,False,False,Clary,Chat,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+73,GYB220120-6604-72109,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-20,2022-12-23,12.0,2022-01-21,,,False,False,Esmee,Call,AQ_1,431.7,0.0,,431.7,,,2026-02-07 00:00:00
+74,GYB220120-2241-43133,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-20,2023-01-20,1.0,2022-01-21,,2022-12-21,False,False,Rodger,Call,AQ_9,49.5,49.5,11,99.0,,137.17,2026-02-07 00:00:00
+75,GYB220121-5040-92123,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-21,2023-01-21,12.0,2022-01-21,,,False,False,Nick,Call,AQ_9,431.85,0.0,,431.85,,,2026-02-07 00:00:00
+76,GYB220121-8904-88103,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Megan,Chat,AQ_9,104.3,44.7,,149.0,,,2026-02-07 00:00:00
+77,GYB220121-6407-70121,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Vicky,Call,AQ_25,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+78,GYB220121-2436-93132,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Rodger,Call,AQ_25,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+79,GYB220122-8904-42117,GF,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-22,2022-05-29,1.0,,,2022-04-22,False,False,Nick,Call,AQ_9,159.28,39.82,1,199.1,,19.86,2026-02-07 00:00:00
+80,GYB220122-8769-24151,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-22,2022-02-22,12.0,,2022-02-22,,False,True,Megan,Chat,AQ_9,324.0,108.0,,432.0,324.0,,2026-02-07 00:00:00
+81,GYB220122-2436-24119,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-22,,36.0,,,,False,False,Nick,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+82,GYB220122-2436-97159,BM,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-22,2023-01-22,12.0,,,,False,False,Megan,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+83,GYB220122-2436-64171,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-22,2022-04-22,3.0,,,,False,False,,,,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+84,GYB220122-8769-66181,CR,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-22,2023-01-22,12.0,,,,False,False,Nick,Call,AQ_9,324.0,108.0,,432.0,,,2026-02-07 00:00:00
+85,GYB220122-8904-75163,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-22,2022-09-20,1.0,2022-01-23,,2022-08-22,False,False,Jackie,Call,AQ_9,199.0,0.0,5,199.0,,99.75,2026-02-07 00:00:00
+86,GYB220123-2436-43128,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-23,,36.0,,,,False,False,Biby,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+87,GYB220123-2436-86149,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-23,2025-01-23,36.0,,,,False,False,Jackie,Call,BF.Upgrade,581.4,102.6,,684.0,,,2026-02-07 00:00:00
+88,GYB220123-2255-93147,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-23,,24.0,,,,False,False,Biby,Chat,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+89,GYB220123-8769-26121,BS,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-23,2022-04-23,3.0,2022-01-24,,,False,False,Megan,Chat,AQ_9,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+90,GYB220124-2255-50131,AU,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-24,2023-02-27,36.0,2022-01-24,2022-03-29,,False,True,Jayce,Call,AQ_7,683.69,0.0,,683.69,478.23,,2026-02-07 00:00:00
+91,GYB220124-1295-38123,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jayce,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+92,GYB220124-2436-59151,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-24,2025-01-24,36.0,,,,False,False,Jacob,Call,AQ_1,581.4,102.6,,684.0,,,2026-02-07 00:00:00
+93,GYB220124-8769-18129,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-24,2023-01-31,1.0,,,,False,False,Jayce,Call,AQ_1,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+94,GYB220124-5040-40146,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-24,2022-02-01,24.0,,2022-02-01,,False,True,Jacob,Call,AQ_1,489.6,86.4,,576.0,489.6,,2026-02-07 00:00:00
+95,GYB220125-6407-71134,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-25,2023-02-01,1.0,2022-01-25,,,False,False,Esmee,Call,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+96,GYB220125-2971-78104,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-25,,,False,False,Biby,Chat,AQ_9,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+97,GYB220125-2971-41139,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-25,2023-02-20,1.0,,,2023-01-25,False,False,Rodger,Call,AQ_9,432.0,0.0,1,432.0,,19.95,2026-02-07 00:00:00
+98,GYB220125-2255-85132,CA,gyb-support-24-month-plan,Support 24-month plan,2022-01-25,2024-04-25,24.0,,,,False,False,Rodger,Chat,BF.Upgrade,323.67,107.89,,431.56,,,2026-02-07 00:00:00
+99,GYB220125-2971-44183,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-25,2022-02-25,1.0,,,,False,False,Rodger,Call,AQ_25,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+100,GYB220125-5040-15140,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-25,2025-01-25,36.0,2022-01-26,,,False,False,Jackie,Call,AQ_9,683.3,0.0,,683.3,,,2026-02-07 00:00:00
+101,GYB220125-5040-15140,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-25,2025-01-25,36.0,2022-01-26,,,False,False,Rodger,From Support,AQ.Upgrade,683.3,0.0,,683.3,,,2026-02-07 00:00:00
+102,GYB220125-5040-15140,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-25,2025-01-25,36.0,2022-01-26,,,False,False,Rodger,From Support,AQ_9,683.3,0.0,,683.3,,,2026-02-07 00:00:00
+103,GYB220125-5040-15170,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-25,2022-02-25,1.0,2022-01-26,,,False,False,Nick,Call,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+104,GYB220125-2255-67157,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-26,,,False,False,Jackie,Call,AQ_1,111.91,37.3,,149.21,,,2026-02-07 00:00:00
+105,GYB220125-2971-84221,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-25,2022-04-26,1.0,2022-01-26,,,False,False,Jackie,Call,AQ_5,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+106,GYB220126-2971-96115,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-26,2023-01-26,12.0,,,,False,False,Jackie,Call,AQ_9,367.2,64.8,,432.0,,,2026-02-07 00:00:00
+107,GYB220126-5040-74119,CA,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-26,,24.0,,,,False,False,Rodger,Call,AQ_1,575.91,0.0,,575.91,,,2026-02-07 00:00:00
+108,GYB220126-8904-64130,MT,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-26,,36.0,,,,False,False,Clary,Chat,AQ_9,683.71,0.0,,683.71,,,2026-02-07 00:00:00
+109,GYB220127-6407-77118,PG,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-27,,24.0,2022-01-27,,,False,False,Ruby,Chat,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+110,GYB220127-8769-14129,US,gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-27,2022-04-03,1.0,2022-01-27,,2022-02-27,False,False,Esmee,Call,BF.Upgrade,89.1,9.9,1,99.0,,24.95,2026-02-07 00:00:00
+111,GYB220127-8904-71128,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_1,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+112,GYB220127-2255-56123,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Vicky,Call,AQ_1,119.41,29.85,,149.26,,,2026-02-07 00:00:00
+113,GYB220127-2436-32115,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-27,2022-02-27,1.0,,,,False,False,Esmee,Call,AQ_25,79.2,19.8,,99.0,,,2026-02-07 00:00:00
+114,GYB220127-2971-96120,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-27,,24.0,,,,False,False,Rodger,Call,AQ_5,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+115,GYB220127-6407-35172,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-28,,,False,False,Jayce,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+116,GYB220128-4242-81115,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-28,2022-03-10,12.0,2022-01-28,,,True,False,Jackie,Call,AQ_1,388.54,43.17,,431.71,358.83,,2026-02-07 00:00:00
+117,GYB220128-4977-22128,AU,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-28,2023-08-26,1.0,2022-01-28,,2023-07-26,False,False,Rodger,Call,AQ_7,99.18,0.0,17,99.18,,409.04,2026-02-07 00:00:00
+118,GYB220128-5179-60121,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-28,2022-02-28,1.0,,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+119,GYB220128-4977-22147,GB,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-28,,36.0,,,,False,False,Megan,Chat,AQ_9,683.62,0.0,,683.62,,,2026-02-07 00:00:00
+120,GYB220128-4242-75153,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-28,2022-02-28,1.0,,,,False,False,Esmee,Call,AQ_9,79.2,19.8,,99.0,,,2026-02-07 00:00:00
+121,GYB220128-1532-84116,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-28,2022-04-30,1.0,,,2022-04-28,False,False,Esmee,Call,AQ_1,99.48,0.0,3,99.48,,61.61,2026-02-07 00:00:00
+122,GYB220128-8017-69132,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-28,,36.0,,,,False,False,Jackie,Call,AQ.Upgrade,581.4,102.6,,684.0,,,2026-02-07 00:00:00
+123,GYB220128-9233-66122,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-28,2022-03-07,1.0,2022-01-29,,,False,False,Rinna,Chat,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+124,GYB220129-3398-77128,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-29,,,False,False,Jackie,Call,AQ_1,74.42,74.42,,148.84,,,2026-02-07 00:00:00
+125,GYB220129-6501-56125,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-29,2023-01-29,12.0,2022-01-29,,,False,False,Olivia,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+126,GYB220129-5179-98137,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-29,,36.0,,,,False,False,Biby,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+127,GYB220129-8017-89112,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-29,2022-02-28,1.0,,,,False,False,Esmee,Call,AQ_25,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+128,GYB220129-4242-71142,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-29,2022-01-29,1.0,,,,False,False,Nick,Call,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+129,GYB220129-1532-19108,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+130,GYB220129-3398-72196,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-29,2022-02-28,1.0,2022-01-30,,,False,False,Vicky,Call,AQ_25,79.2,19.8,,99.0,,,2026-02-07 00:00:00
+131,GYB220130-4242-21130,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-30,2022-02-28,1.0,2022-01-30,,,False,False,Vicky,Call,AQ_9,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+132,GYB220130-4977-60113,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-30,2022-02-28,1.0,2022-01-30,,,False,False,Megan,Chat,AQ_9,49.48,49.48,,98.96,,,2026-02-07 00:00:00
+133,GYB220130-9233-77128,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-30,,36.0,2022-01-30,,,False,False,Vicky,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+134,GYB220130-5570-61108,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-30,2022-01-31,12.0,,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+135,GYB220130-5570-39129,UA,gotyourback-support-6-month-plan,Support 6-month plan,,,0.0,,,,False,True,,,,199.0,19.95,,218.95,199.0,,2026-02-07 00:00:00
+136,GYB220130-5179-82114,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-01-30,2022-03-28,1.0,,,2022-02-28,True,False,Jacob,Call,AQ_9,64.35,34.65,1,99.0,64.35,24.95,2026-02-07 00:00:00
+137,GYB220130-4242-61155,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-01-30,2022-05-30,1.0,,,2022-04-30,False,False,Jacob,Call,AQ_1,199.0,0.0,1,199.0,,19.95,2026-02-07 00:00:00
+138,GYB220130-1532-55139,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-30,,36.0,,,,False,False,Nick,Call,AQ_1,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+139,GYB220130-8017-82119,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-01-30,2022-03-04,1.0,2022-01-31,,2022-02-28,False,False,Jacob,Call,AQ_25,49.5,49.5,1,99.0,,9.97,2026-02-07 00:00:00
+140,GYB220131-1532-96120,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-01-31,,,False,False,Nick,Chat,AQ_7,149.28,0.0,,149.28,,,2026-02-07 00:00:00
+141,GYB220131-9233-32125,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-01-31,,36.0,2022-01-31,,,False,False,Esmee,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+142,GYB220131-5570-47128,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+143,GYB220131-5570-27160,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+144,GYB220131-5570-23200,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+145,GYB220131-5570-94231,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+146,GYB220131-5570-38250,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+147,GYB220131-5570-25301,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,2022-01-31,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+148,GYB220131-5570-28333,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2022-01-31,12.0,,,,False,True,,,,336.0,0.0,,336.0,336.0,,2026-02-07 00:00:00
+149,GYB220131-5570-59368,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+150,GYB220131-5570-18414,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+151,GYB220131-5570-69446,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+152,GYB220131-5570-86457,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+153,GYB220131-5570-24501,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+154,GYB220131-5570-37532,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+155,GYB220131-5570-87556,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+156,GYB220131-5570-52583,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+157,GYB220131-5570-77615,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+158,GYB220131-5570-49641,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+159,GYB220131-5570-73666,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+160,GYB220131-5570-94688,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+161,GYB220131-5570-31724,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-01-31,2023-01-26,12.0,,,,False,False,,,,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+162,GYB220131-5570-42756,UA,gotyourback-support-6-month-plan,Support 6-month plan,,,0.0,,,,False,False,,,,199.0,19.95,,218.95,,,2026-02-07 00:00:00
+163,GYB220131-4242-33114,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+164,GYB220131-4977-45114,US,gyb-support-24-month-plan-hi,Support 24-month Plan,2022-01-31,,24.0,,,,False,False,Rodger,Call,BF.Upgrade,460.8,115.2,,576.0,,,2026-02-07 00:00:00
+165,GYB220131-5570-44764,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,False,,,,299.0,19.95,,318.95,,,2026-02-07 00:00:00
+166,GYB220131-9233-33175,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-01-31,2022-08-07,1.0,2022-02-01,,,False,False,Jacob,Call,AQ_25,199.2,49.8,,249.0,,,2026-02-07 00:00:00
+167,GYB220131-3398-96108,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-01-31,,1.0,2022-02-01,,2023-09-28,False,False,Vicky,Call,AQ_1,432.23,0.0,9,432.23,,173.7,2026-02-07 00:00:00
+168,GYB220201-5570-22118,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-02-01,,1.0,,,2022-03-08,False,False,,,,336.0,0.0,2,336.0,,39.9,2026-02-07 00:00:00
+169,GYB220201-4242-44123,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-01,2025-02-01,36.0,,,,False,False,Esmee,Call,BF.Upgrade,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+170,GYB220202-5179-53105,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-02,,,False,False,,,,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+171,GYB220202-1532-21125,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-02,2023-02-09,1.0,,,2023-01-03,False,False,Vicky,Call,AQ_9,49.5,49.5,11,99.0,,109.67,2026-02-07 00:00:00
+172,GYB220202-1532-71174,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-02,2023-02-02,12.0,2022-02-03,,,False,False,Megan,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+173,GYB220202-9233-91123,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-02,2022-03-02,1.0,2022-02-03,,,False,False,Esmee,Call,AQ_7,49.47,49.47,,98.94,,,2026-02-07 00:00:00
+174,GYB220202-3398-32117,US,aq-gyb-support-24-month-plan,Support 24-month plan,2022-02-02,2024-02-02,24.0,2022-02-03,,,False,False,Rodger,Call,AQ.Upgrade,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+175,GYB220203-6501-77116,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-03,2022-03-03,1.0,2022-02-03,,,False,False,Esmee,Call,AQ_7,64.31,34.63,,98.94,,,2026-02-07 00:00:00
+176,GYB220203-9233-51120,GB,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,149.31,0.0,,149.31,,,2026-02-07 00:00:00
+177,GYB220203-8017-20116,AU,gyb-support-12-month-plan,Support 12-month plan,2022-02-03,,1.0,,,2023-10-03,False,False,Esmee,Call,AQ.Upgrade,336.25,0.0,9,336.25,,168.08,2026-02-07 00:00:00
+178,GYB220203-6501-56143,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jacob,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+179,GYB220203-4977-81116,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-03,,36.0,2022-02-04,,,False,False,Rodger,Call,BF.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+180,GYB220203-6501-17170,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-04,,,False,False,Rinna,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+181,GYB220204-5179-79108,US,gyb-support-6-month-plan-lo,Support 6-month Plan,2022-02-04,2022-11-02,1.0,2022-02-04,,2022-10-04,False,False,Rodger,From Support,BF.Upgrade,211.65,37.35,3,249.0,,59.85,2026-02-07 00:00:00
+182,GYB220204-8017-76129,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-04,2022-03-01,12.0,2022-02-04,2022-03-01,,False,True,Rinna,Chat,AQ_9,432.28,0.0,,432.28,401.53,,2026-02-07 00:00:00
+183,GYB220204-6501-40120,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-04,2022-02-04,1.0,2022-02-04,2022-02-04,,False,True,Rodger,Call,AQ_9,49.5,49.5,,99.0,49.5,,2026-02-07 00:00:00
+184,GYB220204-5179-13139,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-04,2022-04-04,1.0,,,2022-03-04,False,False,Jacob,Call,AQ_9,99.0,0.0,1,99.0,,19.95,2026-02-07 00:00:00
+185,GYB220204-3398-78138,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-04,,36.0,,,,False,False,Esmee,Call,AQ_1,683.97,0.0,,683.97,,,2026-02-07 00:00:00
+186,GYB220204-3398-79166,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-04,2023-01-10,1.0,2022-02-05,,2023-01-04,False,False,Esmee,Call,AQ_9,199.0,0.0,9,199.0,,179.55,2026-02-07 00:00:00
+187,GYB220205-1532-89107,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-05,2022-12-15,36.0,2022-02-05,,,False,False,Megan,From Support,AQ.Upgrade,513.0,171.0,,684.0,,,2026-02-07 00:00:00
+188,GYB220205-6501-14156,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-05,2023-04-12,1.0,2022-02-05,,2023-03-05,False,False,Vicky,Call,AQ_9,199.0,0.0,11,199.0,,219.45,2026-02-07 00:00:00
+189,GYB220205-6501-27168,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-05,2023-02-05,12.0,,,,False,False,,,,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+190,GYB220205-1532-40144,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jacob,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+191,GYB220205-9233-32114,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-05,2022-03-05,1.0,2022-02-06,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+192,GYB220205-4977-12146,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-05,2022-03-05,1.0,2022-02-06,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+193,GYB220206-8017-49132,AU,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-06,2022-02-23,36.0,2022-02-06,2022-02-23,,False,True,Esmee,Call,AQ_7,683.47,0.0,,683.47,480.66,,2026-02-07 00:00:00
+194,GYB220206-9233-87112,CA,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-06,,36.0,,,,False,False,Rodger,Call,BF.Upgrade,580.95,102.52,,683.47,,,2026-02-07 00:00:00
+195,GYB220206-9233-36137,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-06,,36.0,,,,False,True,Nick,Call,AQ_9,684.0,0.0,,684.0,535.0,,2026-02-07 00:00:00
+196,GYB220207-4977-14110,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-07,2022-03-07,1.0,2022-02-07,,,False,False,Jacob,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+197,GYB220207-8017-38112,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-07,2022-03-07,1.0,,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+198,GYB220207-3398-46122,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-07,,36.0,,,,False,False,Jules,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+199,GYB220207-6501-53148,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-07,,1.0,2022-02-08,,2023-10-07,False,False,,,,99.0,0.0,20,99.0,,499.0,2026-02-07 00:00:00
+200,GYB220208-5179-48103,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-08,2022-05-08,3.0,2022-02-08,,,False,False,Megan,Call,AQ_9,179.1,19.9,,199.0,,,2026-02-07 00:00:00
+201,GYB220208-1532-60120,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-08,2022-03-08,1.0,,,,False,False,Esmee,Call,AQ_9,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+202,GYB220208-1532-96132,US,aq-gyb-support-6-month-plan-hi,Support 6-month Plan,2022-02-08,2022-08-15,1.0,,,,False,False,Rinna,Chat,AQ_9,336.0,0.0,,336.0,,,2026-02-07 00:00:00
+203,GYB220208-9233-27117,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-08,2023-10-15,1.0,,,2023-09-10,False,False,Esmee,Call,AQ_9,139.3,59.7,17,199.0,,339.15,2026-02-07 00:00:00
+204,GYB220208-4977-27132,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-08,2022-03-08,1.0,,,,False,False,Esmee,Call,AQ_25,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+205,GYB220208-5179-29145,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-08,2022-03-08,1.0,,,,False,False,Rinna,Chat,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+206,GYB220209-8017-14101,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-02-09,2023-10-16,1.0,2022-02-09,,2023-09-09,False,False,Jules,Chat,AQ_9,199.2,49.8,14,249.0,,279.3,2026-02-07 00:00:00
+207,GYB220209-9233-48119,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-09,,36.0,2022-02-09,,,False,False,Rodger,From Support,BF.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+208,GYB220209-5179-18117,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-09,2022-02-09,36.0,2022-02-09,2022-02-09,,False,True,Rodger,From Support,BF.Upgrade,684.0,0.0,,684.0,684.0,,2026-02-07 00:00:00
+209,GYB220209-8017-43125,CA,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-09,2022-03-14,24.0,2022-02-09,2022-03-14,,True,False,Rodger,Call,AQ_9,460.43,115.11,,575.54,428.67,,2026-02-07 00:00:00
+210,GYB220209-6501-27122,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Megan,Chat,AQ_9,111.74,37.25,,148.99,,,2026-02-07 00:00:00
+211,GYB220210-2756-95124,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-10,2025-02-10,36.0,2022-02-10,,,False,False,Nick,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+212,GYB220210-2092-53113,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,149.11,0.0,,149.11,,,2026-02-07 00:00:00
+213,GYB220210-1833-24119,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_1,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+214,GYB220210-4943-65122,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Olivia,Chat,AQ_9,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+215,GYB220210-1469-74113,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-10,2022-05-12,24.0,,,,False,False,Olivia,Chat,AQ_9,460.8,115.2,,576.0,,,2026-02-07 00:00:00
+216,GYB220210-3843-19147,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Olivia,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+217,GYB220210-5240-20112,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+218,GYB220210-1469-55133,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-10,2023-07-10,1.0,2022-02-11,,2023-06-10,False,False,Vicky,Call,AQ_9,64.35,34.65,16,99.0,,319.2,2026-02-07 00:00:00
+219,GYB220210-1230-62119,CA,aq-gyb-support-6-month-plan-hi,Support 6-month Plan,2022-02-10,2022-08-10,6.0,2022-02-11,,,False,False,Jayce,Call,AQ_1,268.95,67.24,,336.19,,,2026-02-07 00:00:00
+220,GYB220211-5240-78127,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-11,2024-02-11,24.0,2022-02-11,,,False,True,Megan,Chat,AQ_9,576.0,0.0,,576.0,426.0,,2026-02-07 00:00:00
+221,GYB220211-1469-20108,MT,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-11,2022-08-18,1.0,2022-02-11,,2022-07-11,False,False,Megan,Chat,AQ_9,99.07,0.0,5,99.07,,95.53,2026-02-07 00:00:00
+222,GYB220211-1469-33138,AU,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-11,,36.0,2022-02-11,,,False,False,Vicky,Call,AQ_7,683.91,0.0,,683.91,,,2026-02-07 00:00:00
+223,GYB220211-3843-60119,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-11,2022-03-11,1.0,,,,False,False,Jacob,Call,AQ_5,74.25,24.75,,99.0,,,2026-02-07 00:00:00
+224,GYB220211-1469-65159,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-11,2022-03-05,36.0,,2022-03-04,,True,False,Nick,Call,AQ_25,684.0,0.0,,684.0,684.0,,2026-02-07 00:00:00
+225,GYB220211-1469-74188,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-11,2022-05-11,3.0,,,,False,False,Jacob,Call,AQ_9,149.25,49.75,,199.0,,,2026-02-07 00:00:00
+226,GYB220211-3843-87152,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-11,2022-05-03,3.0,,,,False,False,Rodger,Call,AQ_9,159.2,39.8,,199.0,,,2026-02-07 00:00:00
+227,GYB220211-1596-92116,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-12,,,False,False,Biby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+228,GYB220211-6036-80122,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-11,,36.0,2022-02-12,,,False,False,Esmee,Call,AQ_1,581.4,102.6,,684.0,,,2026-02-07 00:00:00
+229,GYB220211-1596-53140,CA,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-11,,24.0,2022-02-12,,,False,False,Esmee,Call,AQ_1,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+230,GYB220212-4018-47111,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-12,2023-02-12,12.0,2022-02-12,,,False,False,Rodger,Call,AQ_9,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+231,GYB220212-5240-72122,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-12,2023-02-19,1.0,2022-02-12,,,False,False,Esmee,Call,AQ_9,324.0,108.0,,432.0,,,2026-02-07 00:00:00
+232,GYB220212-1230-50107,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-12,2022-03-12,1.0,2022-02-12,,,False,False,Esmee,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+233,GYB220212-7843-92119,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-12,,,False,False,Biby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+234,GYB220212-4018-20134,IL,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-12,2022-03-12,1.0,,,,False,False,Clary,Chat,AQ_9,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+235,GYB220212-7843-23149,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-02-12,2022-11-19,1.0,,,2022-10-12,False,False,Esmee,Call,AQ_9,249.0,0.0,3,249.0,,59.85,2026-02-07 00:00:00
+236,GYB220212-1469-14155,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-12,2022-03-19,1.0,2022-02-13,,,False,False,Jacob,Call,AQ_1,74.25,24.75,,99.0,,,2026-02-07 00:00:00
+237,GYB220213-5240-26132,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-13,2022-02-14,1.0,2022-02-13,2022-02-14,,False,True,Esmee,Call,AQ_9,64.35,34.65,,99.0,64.35,,2026-02-07 00:00:00
+238,GYB220213-1469-14128,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-13,2023-02-13,12.0,,,,False,False,Jules,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+239,GYB220213-6036-64129,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+240,GYB220213-1230-82119,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-13,2022-03-13,1.0,,,,False,False,Jackie,Call,AQ_1,99.28,0.0,,99.28,,,2026-02-07 00:00:00
+241,GYB220213-1596-48133,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-13,,24.0,,,,False,False,Rodger,Call,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+242,GYB220213-3843-45125,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-13,,36.0,2022-02-14,,,False,False,Olivia,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+243,GYB220214-6036-72107,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+244,GYB220214-6036-21125,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-14,,36.0,,,,False,False,Jackie,Call,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+245,GYB220214-1469-52121,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-15,,,False,False,Jules,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+246,GYB220214-1469-56156,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-14,2022-03-14,1.0,2022-02-15,,,False,False,Jackie,Call,AQ_1,49.64,49.64,,99.28,,,2026-02-07 00:00:00
+247,GYB220215-1596-15110,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-15,2022-02-24,36.0,,,,True,False,Jayce,Call,AQ_9,684.0,0.0,,684.0,684.0,,2026-02-07 00:00:00
+248,GYB220215-1469-62125,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-15,,24.0,,,,False,True,Vicky,Call,AQ_9,576.0,0.0,,576.0,300.0,,2026-02-07 00:00:00
+249,GYB220215-5240-93129,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-15,2022-05-04,1.0,2022-02-16,,2022-04-15,False,False,Jackie,Call,AQ_1,49.61,49.61,2,99.22,,20.51,2026-02-07 00:00:00
+250,GYB220215-5240-75172,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-16,,,False,False,Rinna,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+251,GYB220216-9780-48120,AU,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-16,,36.0,2022-02-16,,,False,False,Jackie,Call,AQ_7,683.38,0.0,,683.38,,,2026-02-07 00:00:00
+252,GYB220216-4018-97119,GB,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-16,,36.0,,,,False,False,Biby,Chat,AQ_9,683.77,0.0,,683.77,,,2026-02-07 00:00:00
+253,GYB220216-3843-67122,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Esmee,Call,AQ_25,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+254,GYB220217-8578-93123,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-17,,,False,False,Megan,Chat,PDFSuite.CTA,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+255,GYB220217-1791-56133,CA,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-17,2022-08-10,24.0,2022-02-17,,,False,False,Vicky,Call,AQ_1,576.05,0.0,,576.05,,,2026-02-07 00:00:00
+256,GYB220217-9979-62120,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-17,2022-08-24,1.0,,,2022-08-17,False,False,Rodger,Call,AQ_25,49.5,49.5,6,99.0,,74.82,2026-02-07 00:00:00
+257,GYB220217-2723-85130,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-17,,36.0,,,,False,False,Esmee,Call,AQ.Upgrade,615.6,68.4,,684.0,,,2026-02-07 00:00:00
+258,GYB220217-1324-81112,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-17,2022-02-28,12.0,,2022-02-28,,False,True,Olivia,Chat,AQ_9,432.0,0.0,,432.0,300.0,,2026-02-07 00:00:00
+259,GYB220217-1324-28136,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-17,2022-06-17,1.0,,,2022-05-17,False,False,Rodger,Call,AQ_9,139.3,59.7,1,199.0,,19.95,2026-02-07 00:00:00
+260,GYB220217-4827-85118,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-18,,,False,False,Jacob,Call,AQ_9,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+261,GYB220217-4103-59140,PA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-17,2022-03-18,12.0,2022-02-18,,,False,True,Nick,Call,AQ_9,432.0,0.0,,432.0,283.0,,2026-02-07 00:00:00
+262,GYB220217-7423-36114,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-02-17,2022-11-17,1.0,2022-02-18,,2022-10-17,False,False,Nick,Call,AQ_9,199.2,49.8,3,249.0,,59.85,2026-02-07 00:00:00
+263,GYB220218-1719-97110,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-18,,,False,False,Nick,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+264,GYB220218-8715-39126,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-02-18,2024-02-18,24.0,,,,False,False,Rodger,Call,AQ_1,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+265,GYB220218-7311-61120,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-18,2023-02-18,12.0,,,,False,False,Rodger,From Support,AQ.Upgrade,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+266,GYB220218-1719-79130,GB,gyb-support-36-month-plan,Support 36-month plan,2022-02-18,2022-08-03,1.0,,2022-03-13,2022-06-27,False,True,,,,575.56,0.0,3,575.56,372.83,57.77,2026-02-07 00:00:00
+267,GYB220218-6894-75107,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-18,2022-05-25,1.0,,,2022-04-20,False,False,Rodger,Call,AQ_9,49.5,49.5,2,99.0,,24.94,2026-02-07 00:00:00
+268,GYB220218-6894-79140,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Biby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+269,GYB220219-7341-65119,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-19,2025-02-19,36.0,2022-02-19,,,False,False,,,,547.2,136.8,,684.0,,,2026-02-07 00:00:00
+270,GYB220219-3437-51117,GB,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-19,,36.0,,,,False,False,Jackie,Call,AQ_9,683.91,0.0,,683.91,,,2026-02-07 00:00:00
+271,GYB220219-6643-67120,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-19,2022-03-01,12.0,,,,False,False,Jules,Chat,AQ_9,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+272,GYB220219-6894-98116,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-19,2022-07-18,1.0,,,2022-06-19,False,False,Jackie,Call,AQ_9,159.2,39.8,2,199.0,,39.9,2026-02-07 00:00:00
+273,GYB220219-6643-41143,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-19,2022-03-22,1.0,,,,False,False,Rodger,Call,AQ_9,84.15,14.85,,99.0,,,2026-02-07 00:00:00
+274,GYB220219-6344-17113,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-19,2022-03-19,1.0,2022-02-20,,,False,False,Rodger,Call,AQ_7,84.24,14.87,,99.11,,,2026-02-07 00:00:00
+275,GYB220219-6643-35171,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-20,,,False,False,Ruby,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+276,GYB220220-6894-63128,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+277,GYB220220-7341-39112,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_7,74.67,74.67,,149.34,,,2026-02-07 00:00:00
+278,GYB220220-6894-55191,US,gyb-support-36-month-plan,Support 36-month plan,2022-02-20,,36.0,2022-02-21,,,False,False,Rodger,Call,BF.Upgrade,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+279,GYB220220-6344-60136,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-21,,,False,False,Jules,Chat,AQ_9,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+280,GYB220221-6643-26110,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-21,2022-03-21,1.0,2022-02-21,,,False,False,Rodger,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+281,GYB220221-9523-16124,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-21,2023-03-21,1.0,2022-02-21,,2023-02-21,False,False,Rodger,Call,AQ_7,302.56,129.67,1,432.23,,19.28,2026-02-07 00:00:00
+282,GYB220221-3925-60124,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-21,2022-03-21,1.0,,,,False,False,,,,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+283,GYB220221-9523-20157,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-21,,36.0,,2022-02-25,,False,True,,,,581.4,102.6,,684.0,500.0,,2026-02-07 00:00:00
+284,GYB220221-3925-93142,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+285,GYB220221-7341-37129,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-21,2025-02-21,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+286,GYB220221-3437-92119,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-22,,,False,False,Vicky,Call,AQ_1,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+287,GYB220222-3925-65102,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-22,2022-04-04,36.0,2022-02-22,,,False,True,,,,513.0,171.0,,684.0,513.0,,2026-02-07 00:00:00
+288,GYB220222-6643-85114,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-22,2023-02-22,12.0,2022-02-22,,,False,False,,,,432.2,0.0,,432.2,,,2026-02-07 00:00:00
+289,GYB220222-3925-33137,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-22,2022-05-29,1.0,2022-02-22,,,False,False,Keira,Chat,AQ_21,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+290,GYB220222-3437-47118,US,aq-gyb-support-12-month-plan,Support 12-month plan,2022-02-22,2023-03-22,1.0,,,2023-02-22,False,False,,,,285.6,50.4,1,336.0,,19.95,2026-02-07 00:00:00
+291,GYB220222-6643-83126,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-22,2022-03-22,1.0,,,,True,False,,,,99.22,0.0,,99.22,92.61,,2026-02-07 00:00:00
+292,GYB220222-1825-75144,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,111.9,37.3,,149.2,,,2026-02-07 00:00:00
+293,GYB220222-7341-41104,CA,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-22,2022-03-22,1.0,,,,False,False,Rodger,Call,AQ_1,99.22,0.0,,99.22,,,2026-02-07 00:00:00
+294,GYB220222-6643-97159,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-22,2022-02-22,1.0,2022-02-23,,,False,False,Nick,From Support,ByteFence.CTA,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+295,GYB220222-6643-97159,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-22,2022-02-22,1.0,2022-02-23,,,False,False,,,,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+296,GYB220222-3925-79198,GB,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-22,2023-02-22,12.0,2022-02-23,,,False,False,,,,432.46,0.0,,432.46,,,2026-02-07 00:00:00
+297,GYB220222-3437-12141,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-22,2022-03-22,1.0,2022-02-23,,,False,False,,,,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+298,GYB220223-6894-83113,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-23,2022-08-24,12.0,,,,False,False,,,,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+299,GYB220223-7341-49130,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-02-23,2022-05-30,1.0,,,2022-04-23,False,False,Rodger,Call,AQ_9,49.5,49.5,2,99.0,,24.94,2026-02-07 00:00:00
+300,GYB220224-6344-94127,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-24,2022-12-09,12.0,2022-02-24,,,False,False,,,,324.0,108.0,,432.0,,,2026-02-07 00:00:00
+301,GYB220224-9523-71127,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-24,,,False,False,,,,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+302,GYB220224-3437-55128,CA,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-02-24,2022-10-24,1.0,,,2022-09-24,False,False,Ruby,Ticket,AQ_21,249.42,0.0,2,249.42,,39.22,2026-02-07 00:00:00
+303,GYB220224-7955-11142,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-25,,,False,False,,,,74.68,74.68,,149.36,,,2026-02-07 00:00:00
+304,GYB220225-6849-52135,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-02-25,,1.0,,,2023-09-25,False,False,Jackie,Call,AQ_9,49.5,49.5,19,99.0,,189.43,2026-02-07 00:00:00
+305,GYB220226-3969-68106,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Vicky,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+306,GYB220227-6206-73123,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-27,2025-02-27,36.0,2022-02-27,,,False,False,Jules,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+307,GYB220227-3240-47111,GB,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-02-27,,,False,False,,,,149.8,0.0,,149.8,,,2026-02-07 00:00:00
+308,GYB220227-6206-97164,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+309,GYB220227-3969-54123,US,gyb-support-36-month-plan-hi,Support 36-month Plan,2022-02-27,,36.0,,,,False,False,,,,547.2,136.8,,684.0,,,2026-02-07 00:00:00
+310,GYB220228-6206-73107,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-28,2025-08-08,12.0,,,,False,False,,,,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+311,GYB220228-5377-43114,GB,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-02-28,2022-06-11,3.0,2022-03-01,,,False,False,Keira,Chat,AQ_21,199.56,0.0,,199.56,,,2026-02-07 00:00:00
+312,GYB220228-6849-15105,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-02-28,2023-03-08,12.0,2022-03-01,,,False,False,,,,302.58,129.68,,432.26,,,2026-02-07 00:00:00
+313,GYB220301-3969-41127,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-01,,36.0,2022-03-01,,,False,False,Jules,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+314,GYB220301-6206-89120,IL,one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jules,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+315,GYB220301-3240-50125,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-01,,1.0,,,2023-10-01,False,False,Jackie,Call,AQ.Upgrade,99.26,0.0,17,99.26,,333.92,2026-02-07 00:00:00
+316,GYB220302-5377-65116,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-02,2022-09-09,1.0,2022-03-02,,2022-08-02,False,False,Keira,Chat,AQ_21,199.0,0.0,3,199.0,,59.85,2026-02-07 00:00:00
+317,GYB220302-3240-59133,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-02,2027-07-10,36.0,,,,False,False,Rodger,From Support,BF.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+318,GYB220303-7835-78112,SG,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-03,2025-03-03,36.0,,,,False,False,,,,580.85,102.5,,683.35,,,2026-02-07 00:00:00
+319,GYB220303-5377-72116,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+320,GYB220304-6849-18122,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,2022-03-04,,False,True,Jackie,Call,AQ_25,111.75,37.25,,149.0,111.75,,2026-02-07 00:00:00
+321,GYB220304-7955-24111,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_9,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+322,GYB220304-5377-70126,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-04,2023-06-04,1.0,2022-03-05,,2023-05-04,False,False,Jackie,Call,AQ_9,149.25,49.75,12,199.0,,239.4,2026-02-07 00:00:00
+323,GYB220304-3969-90145,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-04,2023-10-13,1.0,2022-03-05,,2023-10-04,False,False,Jules,Chat,AQ_9,345.6,86.4,8,432.0,,159.6,2026-02-07 00:00:00
+324,GYB220305-3969-90131,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+325,GYB220306-6206-92115,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+326,GYB220306-7835-66111,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-06,2022-08-06,1.0,,,2022-07-06,False,False,Keira,Chat,AQ_21,199.0,0.0,2,199.0,,39.9,2026-02-07 00:00:00
+327,GYB220306-5675-78115,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-03-06,2022-03-14,1.0,2022-03-07,,,False,False,Vicky,Call,AQ_9,79.2,19.8,,99.0,,,2026-02-07 00:00:00
+328,GYB220307-6206-11131,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-07,,36.0,2022-03-07,,,False,False,Jules,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+329,GYB220307-3969-17116,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-07,2022-04-11,36.0,,,,False,True,,,,684.0,0.0,,684.0,535.0,,2026-02-07 00:00:00
+330,GYB220307-3969-71174,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-07,,1.0,2022-03-08,,2023-10-07,False,False,,,,432.0,0.0,8,432.0,,159.6,2026-02-07 00:00:00
+331,GYB220308-5675-30119,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-08,2023-05-08,1.0,2022-03-08,,2023-04-08,False,False,,,,432.0,0.0,2,432.0,,39.9,2026-02-07 00:00:00
+332,GYB220308-5675-46158,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-08,,,False,False,Jackie,Call,AQ_9,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+333,GYB220308-7955-34117,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+334,GYB220308-5377-94125,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-08,2023-03-15,1.0,,,,False,False,,,,323.66,107.89,,431.55,,,2026-02-07 00:00:00
+335,GYB220308-5837-29131,UA,aq-gyb-support-12-month-plan,Support 12-month plan,2022-03-08,,1.0,,,2022-03-08,False,False,,,,336.0,0.0,1,336.0,,19.95,2026-02-07 00:00:00
+336,GYB220308-5675-51176,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-08,,1.0,,,2023-10-08,False,False,,,,79.2,19.8,19,99.0,,379.05,2026-02-07 00:00:00
+337,GYB220309-7835-43137,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_9,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+338,GYB220309-5377-23103,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-09,,36.0,,,,False,False,Rodger,Call,AQ_9,513.0,171.0,,684.0,,,2026-02-07 00:00:00
+339,GYB220309-7835-25156,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-03-09,2022-07-09,1.0,,,2022-06-09,False,False,Jules,Chat,AQ_9,99.0,0.0,3,99.0,,74.85,2026-02-07 00:00:00
+340,GYB220309-7955-90110,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-09,2022-06-03,1.0,,,2022-05-09,False,False,Rodger,Call,AQ_9,49.5,49.5,2,99.0,,19.94,2026-02-07 00:00:00
+341,GYB220309-6206-26109,PR,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-09,2023-06-16,1.0,,,2023-05-09,False,False,Jules,Chat,AQ_9,432.0,0.0,3,432.0,,59.85,2026-02-07 00:00:00
+342,GYB220309-7955-91130,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-09,2023-03-09,12.0,,,,False,False,,,,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+343,GYB220309-7835-70196,US,aq-gyb-support-36-month-plan,Support 36-month plan,2022-03-09,,36.0,2022-03-10,,,False,False,Rodger,Call,AQ.Upgrade,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+344,GYB220309-5377-12149,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-09,,12.0,2022-03-10,,,False,False,,,,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+345,GYB220310-3969-28120,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-10,2022-05-24,1.0,2022-03-10,,2022-05-10,False,False,Nick,From Support,ByteFence.CTA,99.0,0.0,2,99.0,,39.9,2026-02-07 00:00:00
+346,GYB220310-7835-69114,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-10,2022-04-10,1.0,,,,False,False,,,,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+347,GYB220310-3240-23126,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-10,,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+348,GYB220310-3240-37168,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-10,2022-03-22,1.0,2022-03-11,,,False,False,Rodger,Call,AQ_1,84.33,14.88,,99.21,,,2026-02-07 00:00:00
+349,GYB220311-7311-68115,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-11,2022-04-11,1.0,2022-03-11,,,False,False,Rodger,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+350,GYB220311-6876-33119,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-11,2023-03-18,1.0,,,,False,False,,,,324.0,108.0,,432.0,,,2026-02-07 00:00:00
+351,GYB220311-6876-90159,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-11,,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+352,GYB220311-6876-27174,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-11,2023-03-11,12.0,,,,False,False,,,,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+353,GYB220312-8911-80109,GB,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.29,0.0,,149.29,,,2026-02-07 00:00:00
+354,GYB220312-8911-53140,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-12,2022-04-11,1.0,,,,False,False,,,,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+355,GYB220312-7871-21132,CA,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-12,2022-04-12,1.0,,,,False,False,,,,64.43,34.69,,99.12,,,2026-02-07 00:00:00
+356,GYB220312-7910-19108,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-13,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+357,GYB220312-7311-15116,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-12,,1.0,2022-03-13,,2023-10-12,False,False,,,,432.0,0.0,8,432.0,,159.6,2026-02-07 00:00:00
+358,GYB220313-3044-21132,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-13,,1.0,2022-03-13,,2023-09-22,False,False,Vicky,Call,AQ_9,432.0,0.0,1,432.0,,19.95,2026-02-07 00:00:00
+359,GYB220313-7311-69134,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-13,,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+360,GYB220313-8911-62133,GB,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-13,2022-04-13,1.0,,,,False,False,,,,49.8,49.8,,99.6,,,2026-02-07 00:00:00
+361,GYB220313-7311-52163,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-13,2022-04-13,1.0,,,,False,False,,,,64.35,34.65,,99.0,,,2026-02-07 00:00:00
+362,GYB220313-7871-16146,US,gotyourback-support-6-month-plan,Support 6-month plan,,,0.0,2022-03-14,,,False,False,,,,199.0,19.95,,218.95,,,2026-02-07 00:00:00
+363,GYB220314-6422-50130,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-14,2022-08-14,1.0,2022-03-14,,2022-07-14,False,False,Keira,Chat,AQ_21,199.0,0.0,2,199.0,,39.9,2026-02-07 00:00:00
+364,GYB220314-7910-44104,US,aq-gyb-support-12-month-plan,Support 12-month plan,2022-03-14,,1.0,,,2023-10-14,False,False,Rodger,Call,AQ_9,235.2,100.8,8,336.0,,159.6,2026-02-07 00:00:00
+365,GYB220314-7311-89114,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Rodger,Call,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+366,GYB220315-3044-51110,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-15,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+367,GYB220315-7477-94120,ZA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+368,GYB220315-3044-50134,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-03-15,2022-06-03,6.0,,,,False,False,Ruby,Ticket,AQ_21,249.0,0.0,,249.0,,,2026-02-07 00:00:00
+369,GYB220315-7871-53127,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-15,,36.0,,,,False,False,Jackie,Call,AQ_9,581.4,102.6,,684.0,,,2026-02-07 00:00:00
+370,GYB220315-3044-57179,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-15,2022-05-02,12.0,,,,False,True,Jules,Chat,AQ_9,432.0,0.0,,432.0,432.0,,2026-02-07 00:00:00
+371,GYB220315-2559-11126,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-15,2022-04-14,1.0,2022-03-16,,,False,False,,,,99.0,0.0,,99.0,,,2026-02-07 00:00:00
+372,GYB220316-3044-53129,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-16,2022-03-18,36.0,,2022-03-18,,False,True,Vicky,Call,AQ_9,684.0,0.0,,684.0,684.0,,2026-02-07 00:00:00
+373,GYB220316-2559-24124,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-16,,24.0,,,,False,False,Rinna,Chat,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+374,GYB220316-7871-56152,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_25,96.85,52.15,,149.0,,,2026-02-07 00:00:00
+375,GYB220316-7477-67124,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-16,,36.0,2022-03-17,,,False,False,Jules,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+376,GYB220317-7910-35122,CA,aq-gyb-support-6-month-plan,Support 6-month plan,2022-03-17,2023-04-17,1.0,2022-03-17,,2023-03-17,False,False,Rodger,Call,AQ_1,134.43,57.61,7,192.04,,134.62,2026-02-07 00:00:00
+377,GYB220317-8911-29119,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-17,2023-04-24,1.0,,,2023-03-17,False,False,,,,432.0,0.0,1,432.0,,19.95,2026-02-07 00:00:00
+378,GYB220317-2559-72126,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-17,,36.0,2022-03-18,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+379,GYB220318-2559-54136,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-18,2023-03-18,12.0,,,,False,False,,,,345.6,86.4,,432.0,,,2026-02-07 00:00:00
+380,GYB220318-3044-81133,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+381,GYB220318-7477-36126,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-18,,36.0,2022-03-19,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+382,GYB220319-3044-54117,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,104.3,44.7,,149.0,,,2026-02-07 00:00:00
+383,GYB220319-2559-14135,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-19,2025-03-19,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+384,GYB220319-2559-92174,IL,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-19,2023-03-26,1.0,,,,False,False,,,,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+385,GYB220319-3588-98121,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,False,,,,299.0,19.95,,318.95,,,2026-02-07 00:00:00
+386,GYB220319-3588-83135,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,False,,,,299.0,19.95,,318.95,,,2026-02-07 00:00:00
+387,GYB220319-3588-53150,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,False,,,,399.0,19.95,,418.95,,,2026-02-07 00:00:00
+388,GYB220319-3588-96171,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,False,,,,399.0,19.95,,418.95,,,2026-02-07 00:00:00
+389,GYB220319-3588-98185,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,False,,,,399.0,19.95,,418.95,,,2026-02-07 00:00:00
+390,GYB220319-3588-69199,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,False,,,,399.0,19.95,,418.95,,,2026-02-07 00:00:00
+391,GYB220319-7477-26118,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-19,2025-03-19,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+392,GYB220319-3588-93223,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,False,,,,399.0,19.95,,418.95,,,2026-02-07 00:00:00
+393,GYB220319-3588-77240,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,True,,,,399.0,19.95,,418.95,399.0,,2026-02-07 00:00:00
+394,GYB220319-3588-94264,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,True,,,,399.0,19.95,,418.95,399.0,,2026-02-07 00:00:00
+395,GYB220319-8911-82128,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-03-19,2022-09-19,6.0,,,,False,False,Ruby,Ticket,AQ_21,186.75,62.25,,249.0,,,2026-02-07 00:00:00
+396,GYB220319-3588-82300,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,True,,,,299.0,19.95,,318.95,299.0,,2026-02-07 00:00:00
+397,GYB220320-8911-47122,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-20,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+398,GYB220320-3044-85111,AU,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-20,,36.0,2022-03-20,,,False,False,,,,683.76,0.0,,683.76,,,2026-02-07 00:00:00
+399,GYB220320-3588-47137,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,True,,,,299.0,19.95,,318.95,299.0,,2026-02-07 00:00:00
+400,GYB220320-3588-60157,UA,gotyourback-support-24-month-plan,Support 24-month plan,,,0.0,,,,False,True,,,,399.0,19.95,,418.95,399.0,,2026-02-07 00:00:00
+401,GYB220320-3588-72169,UA,gotyourback-support-12-month-plan,Support 12-month plan,,,0.0,,,,False,True,,,,299.0,19.95,,318.95,299.0,,2026-02-07 00:00:00
+402,GYB220320-2559-75114,GB,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-20,,24.0,,,,False,False,Ruby,Chat,AQ_9,575.51,0.0,,575.51,,,2026-02-07 00:00:00
+403,GYB220321-2559-12110,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-21,,24.0,2022-03-21,,,False,False,Kinder,Chat,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+404,GYB220321-2559-12110,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-21,,24.0,2022-03-21,,,False,False,Megan,Chat,PDFSuite.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+405,GYB220321-6422-62105,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-21,2023-05-21,1.0,2022-03-21,,2023-04-21,False,False,,,,49.5,49.5,13,99.0,,129.61,2026-02-07 00:00:00
+406,GYB220321-8911-85117,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-21,2023-03-28,1.0,2022-03-21,,,False,False,,,,345.52,86.38,,431.9,,,2026-02-07 00:00:00
+407,GYB220321-7477-75133,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-21,2022-09-21,1.0,,,2022-08-21,False,False,Jules,Chat,AQ_9,159.2,39.8,3,199.0,,59.85,2026-02-07 00:00:00
+408,GYB220321-6876-69144,CA,aq-gyb-support-36-month-plan,Support 36-month plan,2022-03-21,2025-03-21,36.0,,,,False,False,Rodger,Call,AQ.Upgrade,460.69,115.17,,575.86,,,2026-02-07 00:00:00
+409,GYB220321-8911-82143,US,aq-gyb-support-24-month-plan,Support 24-month plan,2022-03-21,2024-03-21,24.0,,,,False,False,Rodger,Call,AQ.Upgrade,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+410,GYB220321-6422-79117,GB,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-21,2022-05-29,3.0,,,,False,False,Jules,Chat,AQ_9,159.39,39.85,,199.24,,,2026-02-07 00:00:00
+411,GYB220321-7871-31130,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-03-21,2022-04-21,1.0,,,,False,False,Rodger,Call,AQ_9,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+412,GYB220321-3044-31104,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-21,2022-04-04,12.0,2022-03-22,2022-04-04,,False,True,,,,345.6,86.4,,432.0,345.6,,2026-02-07 00:00:00
+413,GYB220322-6876-72112,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-22,2023-03-29,1.0,2022-03-22,,,False,False,,,,302.23,129.53,,431.76,,,2026-02-07 00:00:00
+414,GYB220322-3044-14111,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-22,2022-06-22,3.0,,,,False,False,Keira,Chat,AQ_21,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+415,GYB220322-8911-44118,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Vicky,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+416,GYB220322-7871-42114,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-22,2022-03-25,1.0,2022-03-23,,,True,False,Rodger,Call,AQ_9,99.0,0.0,,99.0,99.0,,2026-02-07 00:00:00
+417,GYB220323-6422-45118,US,aq-gyb-support-multiple-monthly,Support Multiple Device Monthly Subscription,2022-03-23,2022-07-30,1.0,2022-03-23,,2022-06-23,False,False,Rodger,Call,AQ_25,99.0,0.0,3,99.0,,74.85,2026-02-07 00:00:00
+418,GYB220323-7910-93109,US,aq-gyb-support-12-month-plan,Support 12-month plan,2022-03-23,2023-03-30,1.0,,,,False,False,Rodger,Call,AQ_25,252.0,84.0,,336.0,,,2026-02-07 00:00:00
+419,GYB220323-6422-37181,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+420,GYB220323-2559-96129,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+421,GYB220323-6876-95130,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,119.2,29.8,,149.0,,,2026-02-07 00:00:00
+422,GYB220323-3044-52133,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,74.75,74.75,,149.5,,,2026-02-07 00:00:00
+423,GYB220323-7910-92132,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-03-23,2022-09-23,6.0,,,,False,False,Ruby,Ticket,AQ_21,249.0,0.0,,249.0,,,2026-02-07 00:00:00
+424,GYB220323-6876-38166,IL,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-23,2022-03-24,36.0,,2022-03-24,,False,True,,,,684.0,0.0,,684.0,684.0,,2026-02-07 00:00:00
+425,GYB220324-7871-19116,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-24,2022-04-24,1.0,,,,False,False,,,,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+426,GYB220324-4913-69125,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-24,,24.0,,,,False,False,Megan,Chat,PDFSuite.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+427,GYB220324-2050-61128,US,gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-24,2022-08-31,1.0,,,2022-07-24,False,False,,,,99.0,0.0,4,99.0,,79.8,2026-02-07 00:00:00
+428,GYB220324-5332-88130,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-24,2023-03-31,1.0,,,,False,False,Keira,Chat,AQ_21,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+429,GYB220324-5332-88130,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-24,2023-03-31,1.0,,,,False,False,,,,432.0,0.0,,432.0,,,2026-02-07 00:00:00
+430,GYB220324-5332-11174,AU,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-24,2022-10-06,24.0,2022-03-25,,,False,False,Megan,Chat,PDFSuite.CTA,575.9,0.0,,575.9,,,2026-02-07 00:00:00
+431,GYB220325-4913-56125,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-25,,24.0,2022-03-25,,,False,False,Megan,Chat,PDFSuite.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+432,GYB220325-4913-70155,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-25,,,False,False,,,,119.11,29.78,,148.89,,,2026-02-07 00:00:00
+433,GYB220325-5541-34116,GB,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-25,2023-04-01,1.0,,,,False,False,,,,366.92,64.76,,431.68,,,2026-02-07 00:00:00
+434,GYB220325-5566-42122,AU,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-25,2023-05-26,1.0,2022-03-26,,2023-05-25,False,False,Keira,Chat,AQ_21,199.26,0.0,9,199.26,,166.27,2026-02-07 00:00:00
+435,GYB220326-5566-84101,AU,one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-26,,,False,False,,,,74.64,74.64,,149.28,,,2026-02-07 00:00:00
+436,GYB220326-7711-59144,AU,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-26,2023-04-02,1.0,2022-03-26,,,False,False,,,,432.06,0.0,,432.06,,,2026-02-07 00:00:00
+437,GYB220326-5541-94114,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-26,2022-04-26,1.0,2022-03-26,,,False,False,,,,74.47,24.83,,99.3,,,2026-02-07 00:00:00
+438,GYB220326-5541-91129,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-26,2022-08-04,12.0,,,,False,False,Rodger,Call,AQ_9,302.4,129.6,,432.0,,,2026-02-07 00:00:00
+439,GYB220326-7711-42168,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-26,2024-03-26,24.0,,,,False,False,Rodger,Call,AQ_25,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+440,GYB220327-4732-29120,UA,gyb-support-36-month-plan,Support 36-month plan,2022-03-27,,36.0,,,,False,False,Alex,Chat,,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+441,GYB220327-4732-94144,UA,gyb-support-36-month-plan,Support 36-month plan,2022-03-27,,36.0,,,,False,False,,,,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+442,GYB220327-4732-57165,UA,gyb-support-36-month-plan,Support 36-month plan,2022-03-27,,36.0,,,,False,False,,,,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+443,GYB220327-4913-74111,GB,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-03-27,2022-10-04,1.0,,,,False,False,Jules,Chat,AQ_9,199.32,49.83,,249.15,,,2026-02-07 00:00:00
+444,GYB220327-2543-96116,US,aq-gyb-support-6-month-plan-hi,Support 6-month Plan,2022-03-27,2022-09-27,6.0,,,,False,False,Ruby,Ticket,AQ_21,252.0,84.0,,336.0,,,2026-02-07 00:00:00
+445,GYB220327-5541-44119,EG,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-27,2023-08-03,1.0,,,2023-07-01,False,False,,,,345.6,86.4,4,432.0,,79.8,2026-02-07 00:00:00
+446,GYB220327-6791-67101,BB,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-27,2024-03-27,24.0,,,,False,False,Rodger,Call,AQ_9,432.0,144.0,,576.0,,,2026-02-07 00:00:00
+447,GYB220327-2543-77152,US,gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-27,2024-07-13,12.0,,,,False,False,Jackie,Call,BF.Upgrade,324.0,108.0,,432.0,,,2026-02-07 00:00:00
+448,GYB220328-4913-76127,AU,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-28,2022-04-28,1.0,2022-03-28,,,False,False,,,,49.79,49.79,,99.58,,,2026-02-07 00:00:00
+449,GYB220328-5566-93116,CA,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-28,2023-03-28,12.0,,,,False,False,,,,345.92,86.48,,432.4,,,2026-02-07 00:00:00
+450,GYB220328-2050-88108,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-28,,36.0,,,,False,False,Rinna,Chat,AQ_9,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+451,GYB220328-5541-76131,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+452,GYB220328-7711-85129,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-28,2022-04-29,1.0,,,,False,False,Vicky,Call,AQ_25,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+453,GYB220328-5541-29163,GB,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,119.59,29.9,,149.49,,,2026-02-07 00:00:00
+454,GYB220328-7711-47169,US,gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-03-28,2022-06-28,1.0,,,2022-06-28,False,False,Jackie,Call,BF.Upgrade,99.0,0.0,3,99.0,,59.85,2026-02-07 00:00:00
+455,GYB220328-2543-42151,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-28,2025-03-28,36.0,2022-03-29,,,False,False,Rodger,From Support,AQ.Upgrade,478.8,205.2,,684.0,,,2026-02-07 00:00:00
+456,GYB220328-2543-92182,US,aq-gyb-support-12-month-plan,Support 12-month plan,2022-03-28,2023-03-28,12.0,2022-03-29,,,False,False,Rodger,Call,AQ.Upgrade,235.2,100.8,,336.0,,,2026-02-07 00:00:00
+457,GYB220329-2543-35114,GB,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-03-29,2022-09-29,6.0,,,,False,False,Jules,Chat,AQ_9,199.23,49.8,,249.03,,,2026-02-07 00:00:00
+458,GYB220329-2050-12112,CA,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-03-29,,24.0,,,,False,False,Jackie,Call,AQ_1,489.08,86.31,,575.39,,,2026-02-07 00:00:00
+459,GYB220329-6791-66123,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-30,,,False,False,Jackie,Call,AQ_21,104.3,44.7,,149.0,,,2026-02-07 00:00:00
+460,GYB220330-4913-72103,GB,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-30,2022-07-30,1.0,,,2022-06-30,False,False,Keira,Chat,AQ_21,199.15,0.0,1,199.15,,18.53,2026-02-07 00:00:00
+461,GYB220330-5566-60139,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-30,2025-03-30,36.0,,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+462,GYB220330-6791-70119,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,148.94,0.0,,148.94,,,2026-02-07 00:00:00
+463,GYB220330-4913-68138,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-30,2022-06-30,3.0,,,,False,False,Keira,Chat,AQ_21,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+464,GYB220330-2050-28110,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+465,GYB220330-5332-86110,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-03-30,2023-04-28,1.0,,,2023-03-28,False,False,Keira,Chat,AQ_21,199.0,0.0,10,199.0,,199.5,2026-02-07 00:00:00
+466,GYB220330-7323-80104,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-03-31,,,False,False,Vicky,Call,AQ_9,104.3,44.7,,149.0,,,2026-02-07 00:00:00
+467,GYB220331-3150-50104,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.01,0.0,,149.01,,,2026-02-07 00:00:00
+468,GYB220331-2793-63106,CA,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-31,,36.0,,,,False,False,,,,546.86,136.71,,683.57,,,2026-02-07 00:00:00
+469,GYB220331-9703-29106,US,aq-gyb-support-6-month-plan,Support 6-month plan,2022-03-31,2022-10-30,1.0,,,2022-09-30,False,False,Rodger,Call,AQ_9,144.0,48.0,1,192.0,,19.95,2026-02-07 00:00:00
+470,GYB220331-9703-13148,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-31,2022-05-11,36.0,,,,True,False,,,,547.2,136.8,,684.0,547.2,,2026-02-07 00:00:00
+471,GYB220331-8709-50130,US,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-03-31,2025-03-31,36.0,2022-04-01,,,False,False,,,,684.0,0.0,,684.0,,,2026-02-07 00:00:00
+472,GYB220331-9703-51187,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-03-31,2022-05-09,12.0,2022-04-01,2022-05-09,,True,False,,,,432.0,0.0,,432.0,432.0,,2026-02-07 00:00:00
+473,GYB220331-3150-41125,AU,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-04-01,,,False,False,,,,96.86,52.16,,149.02,,,2026-02-07 00:00:00
+474,GYB220401-8709-29128,AU,aq-gyb-support-12-month-plan,Support 12-month plan,2022-04-01,2023-07-08,1.0,2022-04-01,,2023-06-01,False,False,Rodger,Call,AQ_7,235.4,100.88,3,336.28,,53.78,2026-02-07 00:00:00
+475,GYB220401-3245-91126,AU,aq-gyb-support-12-month-plan,Support 12-month plan,2022-04-01,2023-04-01,12.0,2022-04-01,,,False,False,,,,235.4,100.88,,336.28,,,2026-02-07 00:00:00
+476,GYB220401-2793-55124,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,,,,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+477,GYB220402-3245-21126,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,,,,False,False,Jackie,Call,AQ_9,74.5,74.5,,149.0,,,2026-02-07 00:00:00
+478,GYB220402-8709-30113,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-04-02,2023-04-09,1.0,,,,False,False,,,,345.6,86.4,,432.0,,,2026-02-07 00:00:00
+479,GYB220402-8709-67143,CA,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-04-03,,,False,False,David,Call,AQ_1,74.47,74.47,,148.94,,,2026-02-07 00:00:00
+480,GYB220403-3150-68119,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-04-03,2022-07-03,3.0,2022-04-03,,,False,False,Keira,Chat,AQ_21,159.2,39.8,,199.0,,,2026-02-07 00:00:00
+481,GYB220403-7323-11118,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-04-03,,24.0,,,,False,False,Megan,Chat,PDFSuite.CTA,403.2,172.8,,576.0,,,2026-02-07 00:00:00
+482,GYB220403-7323-58148,PA,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-04-03,,1.0,2022-04-04,,2023-10-03,False,False,Jules,Chat,AQ_9,199.2,49.8,13,249.0,,259.35,2026-02-07 00:00:00
+483,GYB220403-2793-67119,NZ,aq-gyb-support-36-month-plan-hi,Support 36-month Plan,2022-04-03,,36.0,2022-04-04,,,False,False,Jules,Chat,AQ_9,683.97,0.0,,683.97,,,2026-02-07 00:00:00
+484,GYB220404-3153-26121,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-04-04,2022-11-03,1.0,2022-04-04,,2022-10-04,False,False,Jules,Chat,AQ_9,199.2,49.8,1,249.0,,19.95,2026-02-07 00:00:00
+485,GYB220404-2833-39114,CA,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-04-04,2022-07-04,3.0,2022-04-04,,,False,False,Keira,Chat,AQ_21,199.03,0.0,,199.03,,,2026-02-07 00:00:00
+486,GYB220404-9703-12140,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-04-04,2023-04-04,12.0,,,,False,False,,,,345.6,86.4,,432.0,,,2026-02-07 00:00:00
+487,GYB220404-2793-83123,US,aq-one-time-pc-support,Support One Time PC Support,,,0.0,2022-04-05,,,False,False,Rinna,Chat,AQ_9,149.0,0.0,,149.0,,,2026-02-07 00:00:00
+488,GYB220405-2833-49117,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-04-05,,1.0,,,2023-10-05,False,False,Rinna,Chat,AQ_9,432.0,0.0,7,432.0,,139.65,2026-02-07 00:00:00
+489,GYB220405-7323-63105,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-04-05,2023-07-05,1.0,,,2023-06-05,False,False,,,,432.0,0.0,3,432.0,,59.85,2026-02-07 00:00:00
+490,GYB220405-3245-15115,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-04-05,,24.0,2022-04-06,,,False,False,Megan,Chat,PDFSuite.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+491,GYB220406-3245-92115,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-04-06,,24.0,,,,False,False,Megan,Chat,PDFSuite.CTA,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+492,GYB220406-2793-14113,US,aq-gyb-support-3-month-plan-lo,Support 3-month Plan,2022-04-06,2022-06-12,3.0,,,,False,False,Keira,Chat,AQ_21,199.0,0.0,,199.0,,,2026-02-07 00:00:00
+493,GYB220406-2793-69125,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-04-06,2022-05-08,1.0,,,,False,False,,,,49.5,49.5,,99.0,,,2026-02-07 00:00:00
+494,GYB220406-3245-93139,US,aq-gyb-support-6-month-plan-lo,Support 6-month Plan,2022-04-06,2022-12-14,1.0,2022-04-07,,2022-12-06,False,False,David,Call,AQ_9,199.2,49.8,3,249.0,,59.85,2026-02-07 00:00:00
+495,GYB220407-3245-93123,CA,aq-gyb-support-6-month-plan,Support 6-month plan,2022-04-07,2023-01-14,1.0,2022-04-07,,2022-12-08,False,False,Rodger,Call,AQ_1,191.96,0.0,3,191.96,,55.24,2026-02-07 00:00:00
+496,GYB220407-3150-18113,US,aq-gyb-support-36-month-plan,Support 36-month plan,2022-04-07,,36.0,,,,False,False,Rodger,Call,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+497,GYB220407-2833-71118,US,aq-gyb-support-24-month-plan-hi,Support 24-month Plan,2022-04-07,,24.0,,,,False,False,Rodger,Call,AQ_9,576.0,0.0,,576.0,,,2026-02-07 00:00:00
+498,GYB220407-2833-33148,US,aq-gyb-support-12-month-plan-hi,Support 12-month Plan,2022-04-07,2023-05-07,1.0,,,2023-04-07,False,True,,,,432.0,0.0,1,432.0,333.0,19.95,2026-02-07 00:00:00
+499,GYB220407-9368-20128,US,aq-gyb-support-single-monthly,Support Single Device Monthly Subscription,2022-04-07,2022-06-14,1.0,2022-04-08,,2022-05-07,False,False,,,,99.0,0.0,1,99.0,,19.95,2026-02-07 00:00:00

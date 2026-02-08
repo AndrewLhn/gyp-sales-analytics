@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Staging таблица с продажами"
+    columns:
+      - name: id
+        description: "Уникальный идентификатор записи"
+        tests:
+          - unique
+          - not_null
+      - name: reference_id
+        description: "Идентификатор референса заказа"
+        tests:
+          - not_null
+      - name: total_amount
+        description: "Общая сумма ($)"
+        tests:
+          - not_null

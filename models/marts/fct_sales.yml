@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: fct_sales
+    description: "Фактовая таблица продаж с расчетными полями"
+    columns:
+      - name: id
+        description: "Уникальный идентификатор записи"
+        tests:
+          - unique
+          - not_null
+      - name: reference_id
+        description: "Идентификатор референса заказа"
+        tests:
+          - not_null
+      - name: total_company_revenue
+        description: "Общий доход компании"
+        tests:
+          - not_null
+      - name: order_date_kyiv
+        description: "Дата заказа (Киев)"
+      - name: days_between_return_and_purchase
+        description: "Разница дней между возвратом и покупкой"
+        tests:
+          - accepted_range:
+              min: 0
+              max: 365
+      - name: sales_agent_name
+        description: "Имя агента продаж"
+        tests:
+          - not_null
+      - name: discount_amount
+        description: "Сумма скидки"
+        tests:
+          - accepted_range:
+              min: 0
