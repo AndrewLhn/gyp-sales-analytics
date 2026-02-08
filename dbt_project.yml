@@ -1,4 +1,4 @@
-name: 'gyp_sales_analytics'
+name: 'sales'
 version: '1.0.0'
 config-version: 2
 
@@ -16,9 +16,5 @@ clean-targets:
   - "dbt_packages"
 
 models:
-  gyp_sales_analytics:
+  sales:
     +materialized: table
-    staging:
-      +schema: staging
-    marts:
-      +schema: analytics

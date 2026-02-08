@@ -1,7 +1,7 @@
 WITH discount_stats AS (
     SELECT 
         AVG(discount_amount) as avg_discount_all
-    FROM analytics.fct_sales
+    FROM raw_analytics.fct_sales
     WHERE discount_amount > 0
 ),
 agent_discounts AS (
@@ -10,7 +10,7 @@ agent_discounts AS (
         COUNT(*) as total_sales,
         AVG(discount_amount)::numeric(10,2) as avg_discount,
         SUM(discount_amount)::numeric(10,2) as total_discount_given
-    FROM analytics.fct_sales
+    FROM raw_analytics.fct_sales
     WHERE sales_agent_name != 'N/A'
     GROUP BY sales_agent_name
 )

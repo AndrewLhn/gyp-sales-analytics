@@ -2,10 +2,10 @@ WITH agent_stats AS (
     SELECT 
         sales_agent_name,
         COUNT(*) as total_sales,
-        SUM(total_amount + total_rebill_amount - returned_amount) as total_revenue,
-        AVG(total_amount + total_rebill_amount - returned_amount)::numeric(10,2) as avg_revenue_per_sale,
+        SUM(total_company_revenue) as total_revenue,
+        AVG(total_company_revenue)::numeric(10,2) as avg_revenue_per_sale,
         AVG(discount_amount)::numeric(10,2) as avg_discount_per_sale
-    FROM analytics.fct_sales
+    FROM raw_analytics.fct_sales
     WHERE sales_agent_name != 'N/A'
     GROUP BY sales_agent_name
 ),

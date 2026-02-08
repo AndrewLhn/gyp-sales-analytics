@@ -1,6 +1,6 @@
 {{ config(
     materialized='table',
-    schema='staging'
+    schema='raw_staging'
 ) }}
 
 SELECT * FROM raw.sales
