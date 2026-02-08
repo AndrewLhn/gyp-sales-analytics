@@ -40,6 +40,3 @@ sale003,germany,product_c,200.00,20.00,0.00,25.00,1,bob_johnson,2024-02-01 11:00
     
     print("Создан тестовый CSV файл")
 EOF
-
-# Запустите скрипт
-python3 normalize_csv.py

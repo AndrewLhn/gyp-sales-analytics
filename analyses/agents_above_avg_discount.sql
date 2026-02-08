@@ -1,7 +1,6 @@
 WITH discount_stats AS (
     SELECT 
-        AVG(discount_amount) as avg_discount_all,
-        PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY discount_amount) as median_discount
+        AVG(discount_amount) as avg_discount_all
     FROM analytics.fct_sales
     WHERE discount_amount > 0
 ),
@@ -9,8 +8,8 @@ agent_discounts AS (
     SELECT 
         sales_agent_name,
         COUNT(*) as total_sales,
-        ROUND(AVG(discount_amount), 2) as avg_discount,
-        SUM(discount_amount) as total_discount_given
+        AVG(discount_amount)::numeric(10,2) as avg_discount,
+        SUM(discount_amount)::numeric(10,2) as total_discount_given
     FROM analytics.fct_sales
     WHERE sales_agent_name != 'N/A'
     GROUP BY sales_agent_name
@@ -20,7 +19,7 @@ SELECT
     ad.total_sales,
     ad.avg_discount,
     ad.total_discount_given,
-    ds.avg_discount_all as company_avg_discount,
+    ds.avg_discount_all::numeric(10,2) as company_avg_discount,
     CASE 
         WHEN ad.avg_discount > ds.avg_discount_all THEN 'ABOVE_AVERAGE'
         WHEN ad.avg_discount = ds.avg_discount_all THEN 'AVERAGE'
