@@ -140,7 +140,4 @@ Empty fields filled with 'N/A' values
 
 Calculated field total_company_revenue added to fct_sales table
 
-🔗 Links
-DBT Documentation
 
-PostgreSQL Documentation
