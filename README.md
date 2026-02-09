@@ -49,9 +49,6 @@ PostgreSQL - database
 
 SQL - analytical queries
 
-📊 Key Metrics
-Total company revenue: total_company_revenue field in fct_sales table
-
 Average discount across all agents: 32.84
 
 Agents with highest discounts:
