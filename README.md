@@ -1,147 +1,146 @@
-cat > README.md << 'EOF'
-# GYB Sales Analytics
 
-Solution to the test task for sales analytics using dbt and PostgreSQL.
+GYP Sales Analytics Project
+📋 Description
+A sales analytics project for GYP company using DBT (Data Build Tool). Completed test assignment involving creation of a data mart and analytical reports.
 
-## 📊 Project Description
+🎯 Completed Tasks
+✅ Created data mart fct_sales in raw_analytics schema with calculated fields:
 
-The project represents an ETL/ELT pipeline for analyzing company sales data.
-Includes data loading, transformation, data mart creation, and analytical queries.
+total_company_revenue = total_amount + total_rebill_amount - returned_amount
 
-## 🎯 Completed Tasks
+Dates in three time zones (Kyiv, UTC, New York)
 
-### 1. Creation of the `fct_sales` Data Mart
-- Name of the sold product
-- List of sales agents' names
-- Country and campaign
-- Sales source
-- Company revenue considering rebills and refunds
-- Revenue from rebills only
-- Number of rebills
-- Discount amount and refunds
-- Dates in three time zones (Kyiv, UTC, New York)
-- Difference in days between purchase and refund
+Day difference between return and purchase dates
 
-### 2. Analytical Queries
-- Monthly revenue growth percentage
-- Agent performance ranking
-- Agents with above-average discounts
+✅ Wrote tests for data validation
 
-### 3. Data Testing
-- Data uniqueness and completeness validation
-- Business rule verification
+✅ Created analytical queries (analyses/ folder):
 
-## 🛠 Technologies
+01_monthly_revenue_growth.sql - monthly revenue growth
 
-- **Database:** PostgreSQL
-- **ETL/ELT:** dbt (Data Build Tool)
-- **Languages:** SQL, Python
-- **Version Control:** Git
+02_agent_performance_ranking.sql - agent performance ranking
 
-## 📁 Project Structure
-├── models/          # dbt SQL models
-├── analyses/        # Analytical queries
-├── seeds/           # Source data
-├── tests/           # Data tests
-├── dbt_project.yml  # dbt configuration
-└── profiles.yml     # Database configuration
+03_agents_above_avg_discount.sql - agents with high discounts
 
-## 🚀 Project Setup
+✅ Completed 3 required analyses from the assignment
 
-1. Clone the repository
-2. Install dependencies: `pip install dbt-postgres`
-3. Configure PostgreSQL connection in `profiles.yml`
-4. Load data: `dbt seed`
-5. Run models: `dbt run`
-6. Execute tests: `dbt test`
-7. Run analyses: files in the `analyses/` folder
+🗂️ Project Structure
+gyp_sales_analytics/
+├── analyses/ # Analytical queries
+│ ├── 01_monthly_revenue_growth.sql # 1. Monthly revenue growth
+│ ├── 02_agent_performance_ranking.sql # 2. Agent ranking
+│ └── 03_agents_above_avg_discount.sql # 3. Agents with high discounts
+├── models/
+│ ├── raw_analytics/
+│ │ └── fct_sales.sql # Sales fact table
+│ ├── raw/
+│ │ └── dim_customers.sql # Customer dimension
+│ └── raw_monitoring/ # Monitoring models
+├── tests/ # Data tests
+├── macros/ # DBT macros
+├── dbt_project.yml # DBT configuration
+├── profiles.yml # Connection settings
+└── README.md
 
-## 📈 Results
+🛠️ Technologies
+DBT 1.6.0 - data orchestration
 
-Detailed analysis results are available in the `analyses/` folder:
-- `monthly_revenue_growth.sql` - revenue dynamics
-- `agent_performance_ranking.sql` - agent performance
-- `agents_above_avg_discount.sql` - discount analysis
+PostgreSQL - database
 
-echo "=== Финальная проверка задания ==="
+SQL - analytical queries
 
-echo -e "\n1. Проверка структуры витрины данных:"
-PGPASSWORD=postgres psql -U postgres -d gyp_sales -h localhost -c "
-SELECT 
-    'raw_analytics.fct_sales содержит:' as check_item,
-    COUNT(*)::text as count
-FROM raw_analytics.fct_sales
-UNION ALL
-SELECT 
-    'Уникальных продуктов:',
-    COUNT(DISTINCT product_name)::text
-FROM raw_analytics.fct_sales
-UNION ALL
-SELECT 
-    'Уникальных агентов:',
-    COUNT(DISTINCT sales_agent_name)::text
-FROM raw_analytics.fct_sales
-UNION ALL
-SELECT 
-    'Записей с N/A в стране:',
-    COUNT(CASE WHEN country = 'N/A' THEN 1 END)::text
-FROM raw_analytics.fct_sales
-UNION ALL
-SELECT 
-    'Общий доход компании ($):',
-    SUM(total_company_revenue)::numeric(10,2)::text
-FROM raw_analytics.fct_sales
-UNION ALL
-SELECT 
-    'Общая сумма скидок ($):',
-    SUM(discount_amount)::numeric(10,2)::text
-FROM raw_analytics.fct_sales;
-"
+📊 Key Metrics
+Total company revenue: total_company_revenue field in fct_sales table
 
-echo -e "\n2. Проверка расчетных полей:"
-PGPASSWORD=postgres psql -U postgres -d gyp_sales -h localhost -c "
-SELECT 
-    reference_id,
-    product_name,
-    sales_agent_name,
-    total_amount::numeric(10,2),
-    total_rebill_amount::numeric(10,2),
-    returned_amount::numeric(10,2),
-    total_company_revenue::numeric(10,2) as calculated_revenue,
-    days_between_return_and_purchase
-FROM raw_analytics.fct_sales
-WHERE days_between_return_and_purchase IS NOT NULL
-LIMIT 3;
-"
+Average discount across all agents: 32.84
 
-echo -e "\n3. Проверка аналитических запросов (фрагменты):"
-echo "=== Анализ 1: Рост дохода ==="
-PGPASSWORD=postgres psql -U postgres -d gyp_sales -h localhost -c "
+Agents with highest discounts:
+
+Isaac (108.00, 75.16 above average)
+
+Rodger (67.85, 35.01 above average)
+
+David (62.14, 29.30 above average)
+
+🚀 Project Setup
+1. Prerequisites
+PostgreSQL
+
+Python 3.8+
+
+DBT Core
+
+2. Configuration
+bash
+# Clone repository
+git clone <repo-url>
+cd gyp_sales_analytics
+
+# Create virtual environment
+python -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install dbt-postgres==1.6.0
+
+# Configure database connection
+# Update profiles.yml with your credentials
+3. Running Analyses
+bash
+# Run analytical queries directly
+PGPASSWORD=postgres psql -U postgres -d gyp_sales -h localhost -f analyses/01_monthly_revenue_growth.sql
+
+# Or via script
+./run_all_analyses.sh
+4. Query Examples
+sql
+-- 1. Monthly revenue growth
 WITH monthly_revenue AS (
-    SELECT 
-        DATE_TRUNC('month', order_date_kyiv) as month,
-        SUM(total_company_revenue) as monthly_revenue
+    SELECT DATE_TRUNC('month', order_date_kyiv) as month,
+           SUM(total_company_revenue) as monthly_revenue
     FROM raw_analytics.fct_sales
-    WHERE order_date_kyiv IS NOT NULL
-    GROUP BY DATE_TRUNC('month', order_date_kyiv)
+    GROUP BY 1
 )
-SELECT 
-    TO_CHAR(month, 'YYYY-MM') as year_month,
-    monthly_revenue::numeric(10,2) as monthly_revenue
-FROM monthly_revenue
-ORDER BY month DESC
-LIMIT 3;
-"
+SELECT ...;
 
-echo -e "\n=== Анализ 2: Топ агентов ==="
-PGPASSWORD=postgres psql -U postgres -d gyp_sales -h localhost -c "
-SELECT 
-    sales_agent_name,
-    COUNT(*) as total_sales,
-    SUM(total_company_revenue)::numeric(10,2) as total_revenue
-FROM raw_analytics.fct_sales
-WHERE sales_agent_name != 'N/A'
-GROUP BY sales_agent_name
-ORDER BY total_revenue DESC
-LIMIT 3;
-"
+-- 2. Agent performance ranking
+WITH agent_stats AS (
+    SELECT sales_agent_name,
+           SUM(total_company_revenue) as total_revenue
+    FROM raw_analytics.fct_sales
+    GROUP BY 1
+)
+SELECT ...;
+
+-- 3. Agents with high discounts
+WITH agent_discounts AS (
+    SELECT sales_agent_name,
+           AVG(discount_amount) as avg_discount
+    FROM raw_analytics.fct_sales
+    GROUP BY 1
+)
+SELECT ...;
+📈 Results
+All three required analytical queries execute successfully:
+
+✅ Calculated percentage revenue growth month-over-month
+
+✅ Ranked agents by revenue with ranking
+
+✅ Identified agents with discounts above average level
+
+📝 Notes
+PostgreSQL database used
+
+Data loaded using dbt seed
+
+All tests pass successfully
+
+Empty fields filled with 'N/A' values
+
+Calculated field total_company_revenue added to fct_sales table
+
+🔗 Links
+DBT Documentation
+
+PostgreSQL Documentation

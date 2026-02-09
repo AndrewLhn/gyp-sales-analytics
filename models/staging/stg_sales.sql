@@ -1,6 +1,4 @@
-{{ config(
-    materialized='table',
-    schema='raw_staging'
-) }}
+{{ config(materialized='view') }}
 
-SELECT * FROM raw.sales
+SELECT *
+FROM {{ ref('raw_sales') }}
